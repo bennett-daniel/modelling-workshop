@@ -62,7 +62,7 @@ likelihood_function <- function(par, p_data){
 }
 
 ## fit model
-foo <- optim(
+model_fit <- optim(
   par    = c(0.1, 0.5), # k, beta
   fn     = likelihood_function,
   method = "L-BFGS-B",
@@ -70,4 +70,5 @@ foo <- optim(
   p_data = p_data
 )
 
-
+## view output
+print(model_fit)
