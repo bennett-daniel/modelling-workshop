@@ -79,7 +79,7 @@ group_plot_indiff_point <- ggplot(data = group_data, mapping = aes(x=timestep, y
                             geom_point(size=2, colour=brewer.pal(name="Set1", n=9)[2]) +
                             scale_x_continuous(name = "Delay time (in months)", breaks=timesteps,labels=c(0,1,2,3,6,12,24)) +
                             scale_y_continuous(name = "Indifference point\n") +
-                            coord_capped_cart(left="both", bottom="both", xlim=c(0,2), ylim=c(0,400))
+                            coord_capped_cart(left="both", bottom="both", xlim=c(0,2), ylim=c(0,1000))
 # group_plot_indiff_point
 
 joint_plot_group <- cowplot::plot_grid(group_plot_indiff_point, group_plot_present_equiv, nrow=1, label_fontface="bold", label_size=14, labels=c("A) Survey responses", "B) Subjective value at different delays"), hjust=0) 
@@ -103,7 +103,7 @@ indiv_plot_indiff_point <- ggplot(data = indiv_data, mapping = aes(x=timestep, y
                             scale_colour_manual(values=rep(brewer.pal(name="Set3", n=11)[c(1,3:11)], times=5)) + 
                             scale_x_continuous(name = "Delay time (in months)", breaks=timesteps,labels=c(0,1,2,3,6,12,24)) +
                             scale_y_continuous(name = "Indifference point\n") +
-                            coord_capped_cart(left="both", bottom="both", xlim=c(0,2), ylim=c(0,400)) +
+                            coord_capped_cart(left="both", bottom="both", xlim=c(0,2), ylim=c(0,1000)) +
                             theme(legend.position="none")
 indiv_plot_indiff_point
 
