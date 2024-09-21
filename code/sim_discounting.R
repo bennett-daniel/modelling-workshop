@@ -31,23 +31,33 @@ hyperbolic_discount_fun <- function(amount, delay, k){
   return(amount * (1 / (1 + k * delay)))
 }
 
+## specify the linear discount function
+linear_discount_fun <- function(amount, delay, discount_parameter){
+  return(amount + discount_parameter * delay)
+}
+
 ## simulate some participants
-group_mean_k <- 0.7
-group_sd_k <- 0.35
+group_mean_k <- 1.5
+group_sd_k <- 0.5
+group_mean_linear_discount <- -30
+group_sd_linear_discount <- 10
 n_participants <- 10
 all_k <- rnorm(n=n_participants, mean=group_mean_k, sd=group_sd_k)
-
+all_linear_discount <- rnorm(n=n_participants, mean=group_mean_linear_discount, sd=group_sd_linear_discount)
+  
 ## simulate group-mean indifference points
 group_present_equivalents <- hyperbolic_discount_fun(amount=ss_comparison_amount, delay=timesteps, k=group_mean_k)
 group_indifference_point  <- ss_comparison_amount * ss_comparison_amount / hyperbolic_discount_fun(amount=ss_comparison_amount, delay=timesteps, k=group_mean_k)
 
 ## simulate some indifference points for each participant
-all_present_equivalents <- matrix(NA, nrow=n_participants, ncol=length(timesteps))
-all_indifference_point  <- matrix(NA, nrow=n_participants, ncol=length(timesteps))
+all_present_equivalents    <- matrix(NA, nrow=n_participants, ncol=length(timesteps))
+linear_present_equivalents <- matrix(NA, nrow=n_participants, ncol=length(timesteps))
+all_indifference_point     <- matrix(NA, nrow=n_participants, ncol=length(timesteps))
 
 for (p_ix in 1:n_participants){
-  all_present_equivalents[p_ix,] <- hyperbolic_discount_fun(amount=ss_comparison_amount, delay=timesteps, k=all_k[p_ix])
-  all_indifference_point[p_ix,]  <- ss_comparison_amount * ss_comparison_amount / hyperbolic_discount_fun(amount=ss_comparison_amount, delay=timesteps, k=all_k[p_ix])
+  all_present_equivalents[p_ix,]    <- hyperbolic_discount_fun(amount=ss_comparison_amount, delay=timesteps, k=all_k[p_ix])
+  linear_present_equivalents[p_ix,] <- linear_discount_fun(amount=ss_comparison_amount, delay=timesteps, discount_parameter=all_linear_discount[p_ix])
+  all_indifference_point[p_ix,]     <- ss_comparison_amount * ss_comparison_amount / hyperbolic_discount_fun(amount=ss_comparison_amount, delay=timesteps, k=all_k[p_ix])
 }
 
 ## convert data for plotting
@@ -58,10 +68,11 @@ group_data <- data.frame(
 )
 
 indiv_data <- data.frame(
-  id                 = as.factor(rep(1:n_participants, each=length(timesteps))),
-  timestep           = rep(timesteps, times=n_participants),
-  present_equivalent = as.vector(t(all_present_equivalents)),
-  indifference_point  = as.vector(t(all_indifference_point))
+  id                        = as.factor(rep(1:n_participants, each=length(timesteps))),
+  timestep                  = rep(timesteps, times=n_participants),
+  present_equivalent        = as.vector(t(all_present_equivalents)),
+  indifference_point        = as.vector(t(all_indifference_point)),
+  linear_present_equivalent = as.vector(t(linear_present_equivalents))
 )
 
 ## plot group-mean data
@@ -110,4 +121,15 @@ indiv_plot_indiff_point
 joint_plot_indiv <- cowplot::plot_grid(indiv_plot_indiff_point, indiv_plot_present_equiv, nrow=1, label_fontface="bold", label_size=14, labels=c("A) Survey responses", "B) Subjective value at different delays"), hjust=0) 
 cowplot::save_plot(plot=joint_plot_indiv, filename=here::here("plots", "placeholder-indiv-plot.png"),base_height = 9, base_width=20, units="cm")
 
-## plot
+## plot some discount curves under linear discounting
+indiv_plot_present_equiv_linear <- ggplot(data = indiv_data, mapping = aes(x=timestep, y=linear_present_equivalent, group=id, colour=id)) +
+  geom_line() +
+  geom_point(size=2) +
+  scale_colour_manual(values=rep(brewer.pal(name="Set3", n=11)[c(1,3:11)], times=5)) + 
+  scale_x_continuous(name = "Delay time (in months)", breaks=timesteps,labels=c(0,1,2,3,6,12,24)) + 
+  scale_y_continuous(name = "Subjective value of $100\n") +
+  coord_capped_cart(left="both", bottom="both", xlim=c(0,2), ylim=c(0,100)) +
+  theme(legend.position="none")
+indiv_plot_present_equiv_linear
+
+cowplot::save_plot(plot=indiv_plot_present_equiv_linear, filename=here::here("plots", "linear-placeholder-indiv-plot.png"),base_height = 9, base_width=10, units="cm")

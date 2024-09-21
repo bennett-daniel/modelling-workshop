@@ -1,0 +1,643 @@
+"subject","trial","playerMood","playerMoodRT","initialBank","playerBet","playerBetRT","playerEarnings","endingBank","playerStart","playerHandSoft","playerAction","playerActionRT","playerTotal","dealerStart","dealerTotal","description","playerFeedbackRT"
+"0k0xiwrpdg8757k0v8g3fqlt",1,50,1323,500,50,2218,0,450,16,TRUE,"stand",1839,16,10,18,"dealer win",1302
+"0k0xiwrpdg8757k0v8g3fqlt",2,NA,NA,450,50,3339,0,400,7,FALSE,"hit",1148,25,6,10,"player bust",1771
+"0k0xiwrpdg8757k0v8g3fqlt",2,NA,NA,450,50,3339,0,400,7,FALSE,"hit",127,25,6,10,"player bust",1771
+"0k0xiwrpdg8757k0v8g3fqlt",3,NA,NA,400,50,2117,100,450,15,TRUE,"hit",1943,20,7,17,"player win",1077
+"0k0xiwrpdg8757k0v8g3fqlt",3,NA,NA,400,50,2117,100,450,15,TRUE,"stand",923,20,7,17,"player win",1077
+"0k0xiwrpdg8757k0v8g3fqlt",4,NA,NA,450,50,2012,0,400,13,FALSE,"hit",1237,18,10,21,"dealer win",1532
+"0k0xiwrpdg8757k0v8g3fqlt",4,NA,NA,450,50,2012,0,400,13,FALSE,"stand",889,18,10,21,"dealer win",1532
+"0k0xiwrpdg8757k0v8g3fqlt",5,42,2353,400,50,1980,100,450,14,FALSE,"hit",1512,21,10,18,"player win",418
+"0k0xiwrpdg8757k0v8g3fqlt",5,42,2353,400,50,1980,100,450,14,FALSE,"stand",1001,21,10,18,"player win",418
+"0k0xiwrpdg8757k0v8g3fqlt",6,NA,NA,450,50,1631,0,400,16,FALSE,"stand",1320,16,10,19,"dealer win",757
+"0k0xiwrpdg8757k0v8g3fqlt",7,NA,NA,400,50,1716,100,450,20,FALSE,"stand",1227,20,10,24,"dealer bust",1434
+"0k0xiwrpdg8757k0v8g3fqlt",8,50,1741,450,50,2022,100,500,14,FALSE,"hit",1535,19,4,23,"dealer bust",1385
+"0k0xiwrpdg8757k0v8g3fqlt",8,50,1741,450,50,2022,100,500,14,FALSE,"stand",621,19,4,23,"dealer bust",1385
+"0k0xiwrpdg8757k0v8g3fqlt",9,NA,NA,500,50,1629,50,500,17,FALSE,"stand",1396,17,6,17,"draw",930
+"0k0xiwrpdg8757k0v8g3fqlt",10,52,2162,500,50,1493,50,500,12,FALSE,"hit",1152,19,9,19,"draw",413
+"0k0xiwrpdg8757k0v8g3fqlt",10,52,2162,500,50,1493,50,500,12,FALSE,"stand",626,19,9,19,"draw",413
+"0k0xiwrpdg8757k0v8g3fqlt",11,NA,NA,500,50,1639,0,450,13,FALSE,"hit",1028,23,7,17,"player bust",1101
+"0k0xiwrpdg8757k0v8g3fqlt",12,NA,NA,450,50,1423,100,500,6,FALSE,"hit",1329,18,3,22,"dealer bust",11292
+"0k0xiwrpdg8757k0v8g3fqlt",12,NA,NA,450,50,1423,100,500,6,FALSE,"hit",501,18,3,22,"dealer bust",11292
+"0k0xiwrpdg8757k0v8g3fqlt",12,NA,NA,450,50,1423,100,500,6,FALSE,"stand",638,18,3,22,"dealer bust",11292
+"0k0xiwrpdg8757k0v8g3fqlt",13,NA,NA,500,50,2217,100,550,14,FALSE,"hit",1495,19,8,18,"player win",6002
+"0k0xiwrpdg8757k0v8g3fqlt",13,NA,NA,500,50,2217,100,550,14,FALSE,"stand",535,19,8,18,"player win",6002
+"0k0xiwrpdg8757k0v8g3fqlt",14,63,1812,550,50,1933,100,600,17,FALSE,"stand",917,17,5,26,"dealer bust",3211
+"0k0xiwrpdg8757k0v8g3fqlt",15,NA,NA,600,50,1509,0,550,18,TRUE,"stand",1296,18,10,19,"dealer win",144
+"0k0xiwrpdg8757k0v8g3fqlt",16,NA,NA,550,50,1490,100,600,16,FALSE,"stand",1293,16,10,25,"dealer bust",300
+"0k0xiwrpdg8757k0v8g3fqlt",17,NA,NA,600,50,1676,100,650,9,FALSE,"hit",970,19,8,18,"player win",718
+"0k0xiwrpdg8757k0v8g3fqlt",17,NA,NA,600,50,1676,100,650,9,FALSE,"stand",853,19,8,18,"player win",718
+"0k0xiwrpdg8757k0v8g3fqlt",18,65,2826,650,50,1793,0,600,8,FALSE,"hit",905,16,3,18,"dealer win",395
+"0k0xiwrpdg8757k0v8g3fqlt",18,65,2826,650,50,1793,0,600,8,FALSE,"hit",1001,16,3,18,"dealer win",395
+"0k0xiwrpdg8757k0v8g3fqlt",18,65,2826,650,50,1793,0,600,8,FALSE,"stand",897,16,3,18,"dealer win",395
+"0k0xiwrpdg8757k0v8g3fqlt",19,NA,NA,600,50,1625,0,550,12,FALSE,"hit",1132,16,10,20,"dealer win",1015
+"0k0xiwrpdg8757k0v8g3fqlt",19,NA,NA,600,50,1625,0,550,12,FALSE,"stand",1276,16,10,20,"dealer win",1015
+"0k0xiwrpdg8757k0v8g3fqlt",20,NA,NA,550,50,1522,0,500,12,FALSE,"hit",1146,17,10,19,"dealer win",874
+"0k0xiwrpdg8757k0v8g3fqlt",20,NA,NA,550,50,1522,0,500,12,FALSE,"stand",1187,17,10,19,"dealer win",874
+"0k0xiwrpdg8757k0v8g3fqlt",21,50,1447,500,50,1329,0,450,15,FALSE,"hit",918,25,10,15,"player bust",664
+"0k0xiwrpdg8757k0v8g3fqlt",22,NA,NA,450,50,3122,100,500,17,FALSE,"stand",1372,17,3,22,"dealer bust",1151
+"0k0xiwrpdg8757k0v8g3fqlt",23,NA,NA,500,50,1501,0,450,17,FALSE,"stand",926,17,2,18,"dealer win",729
+"0k0xiwrpdg8757k0v8g3fqlt",24,44,2518,450,50,1797,100,500,11,FALSE,"hit",975,19,6,22,"dealer bust",1167
+"0k0xiwrpdg8757k0v8g3fqlt",24,44,2518,450,50,1797,100,500,11,FALSE,"stand",571,19,6,22,"dealer bust",1167
+"0k0xiwrpdg8757k0v8g3fqlt",25,NA,NA,500,50,1838,100,550,14,FALSE,"hit",980,20,2,25,"dealer bust",1327
+"0k0xiwrpdg8757k0v8g3fqlt",25,NA,NA,500,50,1838,100,550,14,FALSE,"stand",532,20,2,25,"dealer bust",1327
+"0k0xiwrpdg8757k0v8g3fqlt",26,NA,NA,550,50,1518,0,500,14,TRUE,"hit",972,19,9,20,"dealer win",2305
+"0k0xiwrpdg8757k0v8g3fqlt",26,NA,NA,550,50,1518,0,500,14,TRUE,"stand",523,19,9,20,"dealer win",2305
+"0k0xiwrpdg8757k0v8g3fqlt",27,50,1704,500,50,1622,0,450,12,FALSE,"hit",888,22,10,19,"player bust",652
+"0k0xiwrpdg8757k0v8g3fqlt",28,NA,NA,450,50,1469,100,500,7,FALSE,"hit",3475,18,7,17,"player win",1432
+"0k0xiwrpdg8757k0v8g3fqlt",28,NA,NA,450,50,1469,100,500,7,FALSE,"hit",497,18,7,17,"player win",1432
+"0k0xiwrpdg8757k0v8g3fqlt",28,NA,NA,450,50,1469,100,500,7,FALSE,"stand",634,18,7,17,"player win",1432
+"0k0xiwrpdg8757k0v8g3fqlt",29,NA,NA,500,50,1601,0,450,6,FALSE,"hit",834,18,11,21,"dealer win",564
+"0k0xiwrpdg8757k0v8g3fqlt",29,NA,NA,500,50,1601,0,450,6,FALSE,"hit",543,18,11,21,"dealer win",564
+"0k0xiwrpdg8757k0v8g3fqlt",29,NA,NA,500,50,1601,0,450,6,FALSE,"stand",546,18,11,21,"dealer win",564
+"0k0xiwrpdg8757k0v8g3fqlt",30,46,2001,450,50,1894,0,400,13,FALSE,"hit",1386,20,5,21,"dealer win",2244
+"0k0xiwrpdg8757k0v8g3fqlt",30,46,2001,450,50,1894,0,400,13,FALSE,"stand",699,20,5,21,"dealer win",2244
+"0k0xiwrpdg8757k0v8g3fqlt",31,NA,NA,400,50,1718,100,450,10,FALSE,"hit",935,20,4,23,"dealer bust",112
+"0k0xiwrpdg8757k0v8g3fqlt",31,NA,NA,400,50,1718,100,450,10,FALSE,"stand",782,20,4,23,"dealer bust",112
+"0k0xiwrpdg8757k0v8g3fqlt",32,NA,NA,450,50,1457,125,525,21,TRUE,"stand",2018,21,8,16,"blackjack; player win",817
+"0k0xiwrpdg8757k0v8g3fqlt",33,57,2005,525,50,2243,0,475,14,FALSE,"hit",1412,24,5,15,"player bust",2644
+"0k0xiwrpdg8757k0v8g3fqlt",34,NA,NA,475,50,1641,100,525,19,TRUE,"stand",1179,19,3,23,"dealer bust",717
+"0k0xiwrpdg8757k0v8g3fqlt",35,NA,NA,525,50,3807,50,525,18,TRUE,"stand",1033,18,8,18,"draw",1007
+"0k0xiwrpdg8757k0v8g3fqlt",36,57,1881,525,50,1582,50,525,15,FALSE,"hit",1809,18,8,18,"draw",545
+"0k0xiwrpdg8757k0v8g3fqlt",36,57,1881,525,50,1582,50,525,15,FALSE,"stand",697,18,8,18,"draw",545
+"0k0xiwrpdg8757k0v8g3fqlt",37,NA,NA,525,50,1355,0,475,14,FALSE,"hit",1106,16,3,19,"dealer win",766
+"0k0xiwrpdg8757k0v8g3fqlt",37,NA,NA,525,50,1355,0,475,14,FALSE,"stand",1035,16,3,19,"dealer win",766
+"0k0xiwrpdg8757k0v8g3fqlt",38,NA,NA,475,50,1483,0,425,16,FALSE,"hit",1428,25,9,20,"player bust",738
+"0k0xiwrpdg8757k0v8g3fqlt",39,46,1730,425,50,1332,0,375,18,FALSE,"stand",1114,18,10,19,"dealer win",598
+"0k0xiwrpdg8757k0v8g3fqlt",40,NA,NA,375,50,2519,100,425,14,FALSE,"hit",981,21,10,18,"player win",402
+"0k0xiwrpdg8757k0v8g3fqlt",40,NA,NA,375,50,2519,100,425,14,FALSE,"stand",1001,21,10,18,"player win",402
+"0k0xiwrpdg8757k0v8g3fqlt",41,56,2023,425,50,1318,100,475,12,FALSE,"hit",968,21,5,19,"player win",3512
+"0k0xiwrpdg8757k0v8g3fqlt",41,56,2023,425,50,1318,100,475,12,FALSE,"hit",1510,21,5,19,"player win",3512
+"0k0xiwrpdg8757k0v8g3fqlt",41,56,2023,425,50,1318,100,475,12,FALSE,"stand",1001,21,5,19,"player win",3512
+"0k0xiwrpdg8757k0v8g3fqlt",42,NA,NA,475,50,4454,0,425,16,FALSE,"stand",1442,16,5,21,"dealer win",21789
+"0k0xiwrpdg8757k0v8g3fqlt",43,NA,NA,425,50,10267,0,375,10,FALSE,"hit",913,26,10,18,"player bust",1071
+"0k0xiwrpdg8757k0v8g3fqlt",43,NA,NA,425,50,10267,0,375,10,FALSE,"hit",854,26,10,18,"player bust",1071
+"0k0xiwrpdg8757k0v8g3fqlt",44,NA,NA,375,50,1924,100,425,20,TRUE,"stand",1103,20,6,23,"dealer bust",4261
+"0k0xiwrpdg8757k0v8g3fqlt",45,63,2183,425,50,1911,0,375,15,FALSE,"hit",3866,17,2,19,"dealer win",840
+"0k0xiwrpdg8757k0v8g3fqlt",45,63,2183,425,50,1911,0,375,15,FALSE,"stand",562,17,2,19,"dealer win",840
+"0k0xiwrpdg8757k0v8g3fqlt",46,NA,NA,375,50,1647,0,325,13,FALSE,"hit",958,18,11,20,"dealer win",597
+"0k0xiwrpdg8757k0v8g3fqlt",46,NA,NA,375,50,1647,0,325,13,FALSE,"stand",591,18,11,20,"dealer win",597
+"0k0xiwrpdg8757k0v8g3fqlt",47,47,1691,325,50,1227,100,375,19,FALSE,"stand",960,19,5,17,"player win",451
+"0k0xiwrpdg8757k0v8g3fqlt",48,NA,NA,375,50,1606,0,325,14,FALSE,"hit",1362,24,10,20,"player bust",853
+"0k0xiwrpdg8757k0v8g3fqlt",49,NA,NA,325,50,1313,100,375,20,FALSE,"stand",842,20,2,17,"player win",915
+"0k0xiwrpdg8757k0v8g3fqlt",50,NA,NA,375,50,1482,100,425,20,FALSE,"stand",983,20,6,17,"player win",1134
+"0k0xiwrpdg8757k0v8g3fqlt",51,64,2776,425,50,1526,100,475,5,FALSE,"hit",1215,20,4,18,"player win",1470
+"0k0xiwrpdg8757k0v8g3fqlt",51,64,2776,425,50,1526,100,475,5,TRUE,"hit",514,20,4,18,"player win",1470
+"0k0xiwrpdg8757k0v8g3fqlt",51,64,2776,425,50,1526,100,475,5,TRUE,"stand",737,20,4,18,"player win",1470
+"0k0xiwrpdg8757k0v8g3fqlt",52,NA,NA,475,50,1844,0,425,19,FALSE,"stand",875,19,8,21,"dealer win",289
+"0k0xiwrpdg8757k0v8g3fqlt",53,45,1784,425,50,1181,100,475,20,FALSE,"stand",894,20,2,24,"dealer bust",308
+"0k0xiwrpdg8757k0v8g3fqlt",54,NA,NA,475,50,1369,50,475,15,FALSE,"hit",979,18,4,18,"draw",6480
+"0k0xiwrpdg8757k0v8g3fqlt",54,NA,NA,475,50,1369,50,475,15,FALSE,"stand",493,18,4,18,"draw",6480
+"0k0xiwrpdg8757k0v8g3fqlt",55,NA,NA,475,50,1801,0,425,14,FALSE,"hit",1300,23,11,20,"player bust",497
+"0k0xiwrpdg8757k0v8g3fqlt",56,NA,NA,425,50,2623,0,375,17,TRUE,"stand",1016,17,7,18,"dealer win",422
+"0k0xiwrpdg8757k0v8g3fqlt",57,37,2348,375,50,1190,100,425,20,FALSE,"stand",829,20,8,19,"player win",608
+"0k0xiwrpdg8757k0v8g3fqlt",58,NA,NA,425,50,1226,0,375,17,FALSE,"stand",927,17,11,18,"dealer win",722
+"0k0xiwrpdg8757k0v8g3fqlt",59,NA,NA,375,50,1115,50,375,17,FALSE,"stand",909,17,11,17,"draw",699
+"0k0xiwrpdg8757k0v8g3fqlt",60,NA,NA,375,50,1253,0,325,12,FALSE,"hit",1009,17,3,21,"dealer win",652
+"0k0xiwrpdg8757k0v8g3fqlt",60,NA,NA,375,50,1253,0,325,12,FALSE,"stand",613,17,3,21,"dealer win",652
+"0k0xiwrpdg8757k0v8g3fqlt",61,36,1853,325,50,1293,100,375,18,FALSE,"stand",917,18,4,23,"dealer bust",436
+"0k0xiwrpdg8757k0v8g3fqlt",62,NA,NA,375,50,1196,50,375,8,FALSE,"hit",829,17,10,17,"draw",426
+"0k0xiwrpdg8757k0v8g3fqlt",62,NA,NA,375,50,1196,50,375,8,FALSE,"stand",1011,17,10,17,"draw",426
+"0k0xiwrpdg8757k0v8g3fqlt",63,NA,NA,375,50,1513,0,325,9,FALSE,"hit",1157,16,7,17,"dealer win",631
+"0k0xiwrpdg8757k0v8g3fqlt",63,NA,NA,375,50,1513,0,325,9,FALSE,"hit",596,16,7,17,"dealer win",631
+"0k0xiwrpdg8757k0v8g3fqlt",63,NA,NA,375,50,1513,0,325,9,FALSE,"stand",1060,16,7,17,"dealer win",631
+"0k0xiwrpdg8757k0v8g3fqlt",64,32,2336,325,50,1208,100,375,20,TRUE,"stand",836,20,6,18,"player win",414
+"0k0xiwrpdg8757k0v8g3fqlt",65,NA,NA,375,50,1152,0,325,20,FALSE,"stand",816,20,7,21,"dealer win",831
+"0k0xiwrpdg8757k0v8g3fqlt",66,29,2018,325,50,1199,100,375,12,FALSE,"hit",845,21,10,17,"player win",410
+"0k0xiwrpdg8757k0v8g3fqlt",66,29,2018,325,50,1199,100,375,12,FALSE,"stand",1001,21,10,17,"player win",410
+"0k0xiwrpdg8757k0v8g3fqlt",67,NA,NA,375,50,1286,100,425,12,FALSE,"hit",1283,21,2,22,"dealer bust",558
+"0k0xiwrpdg8757k0v8g3fqlt",67,NA,NA,375,50,1286,100,425,12,FALSE,"hit",891,21,2,22,"dealer bust",558
+"0k0xiwrpdg8757k0v8g3fqlt",67,NA,NA,375,50,1286,100,425,12,FALSE,"stand",1001,21,2,22,"dealer bust",558
+"0k0xiwrpdg8757k0v8g3fqlt",68,NA,NA,425,50,1318,100,475,8,FALSE,"hit",733,21,2,19,"player win",708
+"0k0xiwrpdg8757k0v8g3fqlt",68,NA,NA,425,50,1318,100,475,8,FALSE,"hit",452,21,2,19,"player win",708
+"0k0xiwrpdg8757k0v8g3fqlt",68,NA,NA,425,50,1318,100,475,8,FALSE,"stand",1001,21,2,19,"player win",708
+"0k0xiwrpdg8757k0v8g3fqlt",69,51,2246,475,50,1180,100,525,18,TRUE,"stand",1345,18,11,23,"dealer bust",649
+"0k0xiwrpdg8757k0v8g3fqlt",70,NA,NA,525,50,1206,100,575,14,TRUE,"hit",873,17,3,24,"dealer bust",426
+"0k0xiwrpdg8757k0v8g3fqlt",70,NA,NA,525,50,1206,100,575,14,TRUE,"stand",937,17,3,24,"dealer bust",426
+"0k0xiwrpdg8757k0v8g3fqlt",71,NA,NA,575,50,1335,100,625,14,TRUE,"hit",970,21,10,18,"player win",17061
+"0k0xiwrpdg8757k0v8g3fqlt",71,NA,NA,575,50,1335,100,625,14,TRUE,"stand",1000,21,10,18,"player win",17061
+"0k0xiwrpdg8757k0v8g3fqlt",72,57,1675,625,50,1743,0,575,13,FALSE,"hit",962,23,9,12,"player bust",483
+"0k0xiwrpdg8757k0v8g3fqlt",73,NA,NA,575,50,1776,0,525,14,FALSE,"hit",1584,24,10,18,"player bust",468
+"0k0xiwrpdg8757k0v8g3fqlt",74,NA,NA,525,50,1295,0,475,6,FALSE,"hit",732,18,3,21,"dealer win",279
+"0k0xiwrpdg8757k0v8g3fqlt",74,NA,NA,525,50,1295,0,475,6,FALSE,"hit",458,18,3,21,"dealer win",279
+"0k0xiwrpdg8757k0v8g3fqlt",74,NA,NA,525,50,1295,0,475,6,FALSE,"stand",557,18,3,21,"dealer win",279
+"0k0xiwrpdg8757k0v8g3fqlt",75,NA,NA,475,50,1568,0,425,15,FALSE,"hit",804,24,4,14,"player bust",205
+"0k0xiwrpdg8757k0v8g3fqlt",76,44,2396,425,50,1211,0,375,15,FALSE,"hit",861,17,11,21,"dealer win",502
+"0k0xiwrpdg8757k0v8g3fqlt",76,44,2396,425,50,1211,0,375,15,FALSE,"stand",769,17,11,21,"dealer win",502
+"0k0xiwrpdg8757k0v8g3fqlt",77,NA,NA,375,50,1162,0,325,11,FALSE,"hit",889,23,10,15,"player bust",442
+"0k0xiwrpdg8757k0v8g3fqlt",77,NA,NA,375,50,1162,0,325,11,FALSE,"hit",710,23,10,15,"player bust",442
+"0k0xiwrpdg8757k0v8g3fqlt",78,NA,NA,325,50,1362,0,275,18,TRUE,"stand",1024,18,10,20,"dealer win",440
+"0k0xiwrpdg8757k0v8g3fqlt",79,35,1645,275,50,1111,0,225,13,FALSE,"hit",824,17,10,20,"dealer win",544
+"0k0xiwrpdg8757k0v8g3fqlt",79,35,1645,275,50,1111,0,225,13,FALSE,"stand",845,17,10,20,"dealer win",544
+"0k0xiwrpdg8757k0v8g3fqlt",80,NA,NA,225,50,1286,0,175,14,FALSE,"hit",1019,22,8,17,"player bust",459
+"0p59eph6tzow3b2da9p558z2",1,80,3106,500,70,6153,0,430,15,FALSE,"hit",5388,16,9,20,"dealer win",3769
+"0p59eph6tzow3b2da9p558z2",1,80,3106,500,70,6153,0,430,15,FALSE,"stand",2563,16,9,20,"dealer win",3769
+"0p59eph6tzow3b2da9p558z2",2,NA,NA,430,30,4721,60,460,19,FALSE,"stand",2408,19,10,24,"dealer bust",1916
+"0p59eph6tzow3b2da9p558z2",3,41,4337,460,50,4356,100,510,14,FALSE,"hit",2556,20,2,19,"player win",4432
+"0p59eph6tzow3b2da9p558z2",3,41,4337,460,50,4356,100,510,14,FALSE,"stand",1300,20,2,19,"player win",4432
+"0p59eph6tzow3b2da9p558z2",4,NA,NA,510,60,4458,120,570,8,FALSE,"hit",2947,19,6,24,"dealer bust",2564
+"0p59eph6tzow3b2da9p558z2",4,NA,NA,510,60,4458,120,570,8,TRUE,"stand",2255,19,6,24,"dealer bust",2564
+"0p59eph6tzow3b2da9p558z2",5,NA,NA,570,50,6473,0,520,13,FALSE,"hit",2769,23,8,18,"player bust",2400
+"0p59eph6tzow3b2da9p558z2",6,NA,NA,520,50,5236,0,470,8,FALSE,"hit",2758,25,5,10,"player bust",2055
+"0p59eph6tzow3b2da9p558z2",6,NA,NA,520,50,5236,0,470,8,FALSE,"hit",1218,25,5,10,"player bust",2055
+"0p59eph6tzow3b2da9p558z2",7,41,4780,470,40,5617,40,470,14,TRUE,"hit",2539,20,10,20,"draw",2654
+"0p59eph6tzow3b2da9p558z2",7,41,4780,470,40,5617,40,470,14,TRUE,"stand",1716,20,10,20,"draw",2654
+"0p59eph6tzow3b2da9p558z2",8,NA,NA,470,40,5330,40,470,16,TRUE,"hit",2295,18,10,18,"draw",1600
+"0p59eph6tzow3b2da9p558z2",8,NA,NA,470,40,5330,40,470,16,FALSE,"hit",9933,18,10,18,"draw",1600
+"0p59eph6tzow3b2da9p558z2",8,NA,NA,470,40,5330,40,470,16,FALSE,"stand",1482,18,10,18,"draw",1600
+"0p59eph6tzow3b2da9p558z2",9,NA,NA,470,40,3400,100,530,21,TRUE,"stand",2019,21,5,15,"blackjack; player win",2003
+"0p59eph6tzow3b2da9p558z2",10,NA,NA,530,80,5620,0,450,14,FALSE,"hit",2235,24,10,13,"player bust",3375
+"0p59eph6tzow3b2da9p558z2",11,35,5295,450,50,4889,0,400,6,FALSE,"hit",2372,16,7,17,"dealer win",1610
+"0p59eph6tzow3b2da9p558z2",11,35,5295,450,50,4889,0,400,6,FALSE,"stand",1901,16,7,17,"dealer win",1610
+"0p59eph6tzow3b2da9p558z2",12,NA,NA,400,50,4399,0,350,6,FALSE,"hit",2109,16,6,18,"dealer win",2038
+"0p59eph6tzow3b2da9p558z2",12,NA,NA,400,50,4399,0,350,6,FALSE,"stand",1755,16,6,18,"dealer win",2038
+"0p59eph6tzow3b2da9p558z2",13,NA,NA,350,40,5603,0,310,17,TRUE,"hit",2416,17,3,19,"dealer win",2011
+"0p59eph6tzow3b2da9p558z2",13,NA,NA,350,40,5603,0,310,17,FALSE,"stand",1899,17,3,19,"dealer win",2011
+"0p59eph6tzow3b2da9p558z2",14,43,3879,310,60,4702,0,250,7,FALSE,"hit",2130,16,10,18,"dealer win",1667
+"0p59eph6tzow3b2da9p558z2",14,43,3879,310,60,4702,0,250,7,FALSE,"stand",2323,16,10,18,"dealer win",1667
+"0p59eph6tzow3b2da9p558z2",15,NA,NA,250,50,4895,100,300,12,FALSE,"hit",1848,19,10,26,"dealer bust",2166
+"0p59eph6tzow3b2da9p558z2",15,NA,NA,250,50,4895,100,300,12,FALSE,"stand",1397,19,10,26,"dealer bust",2166
+"0p59eph6tzow3b2da9p558z2",16,54,3678,300,50,3922,0,250,20,FALSE,"stand",1974,20,2,21,"dealer win",1848
+"0p59eph6tzow3b2da9p558z2",17,NA,NA,250,50,4494,0,200,16,FALSE,"hit",2452,26,10,18,"player bust",1907
+"0p59eph6tzow3b2da9p558z2",18,46,4635,200,50,3579,100,250,12,FALSE,"hit",2095,21,2,25,"dealer bust",3306
+"0p59eph6tzow3b2da9p558z2",18,46,4635,200,50,3579,100,250,12,FALSE,"stand",1000,21,2,25,"dealer bust",3306
+"0p59eph6tzow3b2da9p558z2",19,NA,NA,250,50,3317,100,300,11,FALSE,"hit",2180,18,8,26,"dealer bust",1827
+"0p59eph6tzow3b2da9p558z2",19,NA,NA,250,50,3317,100,300,11,FALSE,"hit",1404,18,8,26,"dealer bust",1827
+"0p59eph6tzow3b2da9p558z2",19,NA,NA,250,50,3317,100,300,11,FALSE,"stand",1818,18,8,26,"dealer bust",1827
+"0p59eph6tzow3b2da9p558z2",20,NA,NA,300,50,3230,100,350,15,FALSE,"hit",3649,21,6,23,"dealer bust",1770
+"0p59eph6tzow3b2da9p558z2",20,NA,NA,300,50,3230,100,350,15,FALSE,"stand",1002,21,6,23,"dealer bust",1770
+"0p59eph6tzow3b2da9p558z2",21,NA,NA,350,50,4125,100,400,8,FALSE,"hit",2095,20,7,17,"player win",1663
+"0p59eph6tzow3b2da9p558z2",21,NA,NA,350,50,4125,100,400,8,FALSE,"hit",1194,20,7,17,"player win",1663
+"0p59eph6tzow3b2da9p558z2",21,NA,NA,350,50,4125,100,400,8,FALSE,"stand",1363,20,7,17,"player win",1663
+"0p59eph6tzow3b2da9p558z2",22,59,4121,400,50,4021,0,350,13,FALSE,"hit",1961,22,10,20,"player bust",2181
+"0p59eph6tzow3b2da9p558z2",23,NA,NA,350,40,4583,80,390,4,FALSE,"hit",1784,21,10,20,"player win",1978
+"0p59eph6tzow3b2da9p558z2",23,NA,NA,350,40,4583,80,390,4,FALSE,"hit",1158,21,10,20,"player win",1978
+"0p59eph6tzow3b2da9p558z2",23,NA,NA,350,40,4583,80,390,4,FALSE,"hit",1014,21,10,20,"player win",1978
+"0p59eph6tzow3b2da9p558z2",23,NA,NA,350,40,4583,80,390,4,FALSE,"stand",1002,21,10,20,"player win",1978
+"0p59eph6tzow3b2da9p558z2",24,NA,NA,390,40,3766,0,350,4,FALSE,"hit",1516,22,10,20,"player bust",3419
+"0p59eph6tzow3b2da9p558z2",24,NA,NA,390,40,3766,0,350,4,FALSE,"hit",1297,22,10,20,"player bust",3419
+"0p59eph6tzow3b2da9p558z2",24,NA,NA,390,40,3766,0,350,4,FALSE,"hit",1023,22,10,20,"player bust",3419
+"0p59eph6tzow3b2da9p558z2",25,48,3657,350,40,2901,0,310,10,FALSE,"hit",1515,23,7,17,"player bust",1730
+"0p59eph6tzow3b2da9p558z2",25,48,3657,350,40,2901,0,310,10,FALSE,"hit",1309,23,7,17,"player bust",1730
+"0p59eph6tzow3b2da9p558z2",26,NA,NA,310,40,3465,0,270,19,TRUE,"stand",2563,19,8,21,"dealer win",2119
+"0p59eph6tzow3b2da9p558z2",27,NA,NA,270,40,3040,0,230,13,FALSE,"hit",1735,23,10,17,"player bust",1944
+"0p59eph6tzow3b2da9p558z2",28,32,4402,230,30,4231,0,200,15,FALSE,"hit",2999,24,10,18,"player bust",3297
+"0p59eph6tzow3b2da9p558z2",29,NA,NA,200,30,3328,0,170,14,FALSE,"hit",1785,24,7,11,"player bust",3015
+"0p59eph6tzow3b2da9p558z2",30,NA,NA,170,30,3523,0,140,15,TRUE,"hit",2223,22,7,17,"player bust",1699
+"0p59eph6tzow3b2da9p558z2",30,NA,NA,170,30,3523,0,140,15,FALSE,"hit",6132,22,7,17,"player bust",1699
+"0p59eph6tzow3b2da9p558z2",31,35,3612,140,30,3192,60,170,20,FALSE,"stand",1836,20,6,19,"player win",2330
+"0p59eph6tzow3b2da9p558z2",32,NA,NA,170,30,3398,0,140,9,FALSE,"hit",1645,18,5,20,"dealer win",1795
+"0p59eph6tzow3b2da9p558z2",32,NA,NA,170,30,3398,0,140,9,FALSE,"stand",1449,18,5,20,"dealer win",1795
+"0p59eph6tzow3b2da9p558z2",33,39,4636,140,25,4014,0,115,14,FALSE,"hit",1967,24,2,12,"player bust",1966
+"0p59eph6tzow3b2da9p558z2",34,NA,NA,115,25,4975,63,153,21,TRUE,"stand",2014,21,7,12,"blackjack; player win",2309
+"0p59eph6tzow3b2da9p558z2",35,NA,NA,153,25,5244,0,128,13,FALSE,"hit",1932,17,6,18,"dealer win",2097
+"0p59eph6tzow3b2da9p558z2",35,NA,NA,153,25,5244,0,128,13,FALSE,"hit",1868,17,6,18,"dealer win",2097
+"0p59eph6tzow3b2da9p558z2",35,NA,NA,153,25,5244,0,128,13,FALSE,"stand",1985,17,6,18,"dealer win",2097
+"0p59eph6tzow3b2da9p558z2",36,22,3124,128,20,3978,0,108,13,FALSE,"hit",1911,23,9,19,"player bust",1829
+"0p59eph6tzow3b2da9p558z2",37,NA,NA,108,20,4652,40,128,6,FALSE,"hit",1625,20,2,19,"player win",2394
+"0p59eph6tzow3b2da9p558z2",37,NA,NA,108,20,4652,40,128,6,FALSE,"hit",1336,20,2,19,"player win",2394
+"0p59eph6tzow3b2da9p558z2",37,NA,NA,108,20,4652,40,128,6,FALSE,"hit",1031,20,2,19,"player win",2394
+"0p59eph6tzow3b2da9p558z2",37,NA,NA,108,20,4652,40,128,6,FALSE,"stand",1237,20,2,19,"player win",2394
+"0p59eph6tzow3b2da9p558z2",38,30,4405,128,20,3646,40,148,20,FALSE,"stand",1645,20,7,17,"player win",1934
+"0p59eph6tzow3b2da9p558z2",39,NA,NA,148,25,3406,0,123,12,FALSE,"hit",2460,22,10,13,"player bust",1701
+"0p59eph6tzow3b2da9p558z2",40,NA,NA,123,20,3379,0,103,15,FALSE,"hit",3593,25,10,13,"player bust",1527
+"0p59eph6tzow3b2da9p558z2",41,39,4542,103,23,4029,0,80,13,FALSE,"hit",1917,24,10,17,"player bust",1644
+"0p59eph6tzow3b2da9p558z2",41,39,4542,103,23,4029,0,80,13,FALSE,"hit",1804,24,10,17,"player bust",1644
+"0p59eph6tzow3b2da9p558z2",42,NA,NA,80,20,3661,0,60,12,TRUE,"hit",2281,24,10,15,"player bust",1767
+"0p59eph6tzow3b2da9p558z2",42,NA,NA,80,20,3661,0,60,12,FALSE,"hit",2001,24,10,15,"player bust",1767
+"0p59eph6tzow3b2da9p558z2",42,NA,NA,80,20,3661,0,60,12,FALSE,"hit",987,24,10,15,"player bust",1767
+"0p59eph6tzow3b2da9p558z2",43,NA,NA,60,20,3612,0,40,12,FALSE,"hit",2843,22,5,10,"player bust",2468
+"0p59eph6tzow3b2da9p558z2",44,18,3216,40,2,2838,4,42,19,TRUE,"stand",1925,19,11,24,"dealer bust",1825
+"0p59eph6tzow3b2da9p558z2",45,NA,NA,42,4,4486,8,46,19,FALSE,"stand",1445,19,5,25,"dealer bust",2231
+"0p59eph6tzow3b2da9p558z2",46,NA,NA,46,4,3066,0,42,11,FALSE,"hit",1716,22,9,18,"player bust",1776
+"0p59eph6tzow3b2da9p558z2",46,NA,NA,46,4,3066,0,42,11,FALSE,"hit",2193,22,9,18,"player bust",1776
+"0p59eph6tzow3b2da9p558z2",47,40,3290,42,4,2808,0,38,14,TRUE,"hit",1713,17,7,20,"dealer win",2631
+"0p59eph6tzow3b2da9p558z2",47,40,3290,42,4,2808,0,38,14,FALSE,"hit",1782,17,7,20,"dealer win",2631
+"0p59eph6tzow3b2da9p558z2",47,40,3290,42,4,2808,0,38,14,FALSE,"stand",1765,17,7,20,"dealer win",2631
+"0p59eph6tzow3b2da9p558z2",48,NA,NA,38,4,2954,0,34,12,FALSE,"hit",1577,16,7,19,"dealer win",1594
+"0p59eph6tzow3b2da9p558z2",48,NA,NA,38,4,2954,0,34,12,FALSE,"stand",1412,16,7,19,"dealer win",1594
+"0p59eph6tzow3b2da9p558z2",49,NA,NA,34,4,3244,8,38,13,FALSE,"hit",2359,20,10,19,"player win",5792
+"0p59eph6tzow3b2da9p558z2",49,NA,NA,34,4,3244,8,38,13,FALSE,"stand",1264,20,10,19,"player win",5792
+"0p59eph6tzow3b2da9p558z2",50,35,3454,38,2,3033,0,36,14,TRUE,"hit",1615,15,3,20,"dealer win",1428
+"0p59eph6tzow3b2da9p558z2",50,35,3454,38,2,3033,0,36,14,TRUE,"stand",1809,15,3,20,"dealer win",1428
+"0p59eph6tzow3b2da9p558z2",51,NA,NA,36,4,3642,8,40,19,FALSE,"stand",1776,19,2,22,"dealer bust",2074
+"0p59eph6tzow3b2da9p558z2",52,27,3677,40,3,3889,8,45,21,TRUE,"stand",2018,21,10,12,"blackjack; player win",1593
+"0p59eph6tzow3b2da9p558z2",53,NA,NA,45,5,3531,0,40,16,FALSE,"stand",2184,16,8,17,"dealer win",1554
+"0p59eph6tzow3b2da9p558z2",54,NA,NA,40,3,2926,3,40,17,FALSE,"stand",2268,17,11,17,"draw",1854
+"0p59eph6tzow3b2da9p558z2",55,NA,NA,40,4,2996,8,44,9,FALSE,"hit",1922,19,3,23,"dealer bust",1570
+"0p59eph6tzow3b2da9p558z2",55,NA,NA,40,4,2996,8,44,9,FALSE,"stand",1298,19,3,23,"dealer bust",1570
+"0p59eph6tzow3b2da9p558z2",56,41,4065,44,4,2696,8,48,17,FALSE,"stand",1819,17,7,24,"dealer bust",2080
+"0p59eph6tzow3b2da9p558z2",57,NA,NA,48,4,2729,0,44,6,FALSE,"hit",1756,16,3,21,"dealer win",1773
+"0p59eph6tzow3b2da9p558z2",57,NA,NA,48,4,2729,0,44,6,FALSE,"stand",1604,16,3,21,"dealer win",1773
+"0p59eph6tzow3b2da9p558z2",58,NA,NA,44,4,2605,0,40,17,FALSE,"stand",1912,17,9,18,"dealer win",1670
+"0p59eph6tzow3b2da9p558z2",59,34,3752,40,4,2557,0,36,13,FALSE,"hit",4295,23,10,17,"player bust",7717
+"0p59eph6tzow3b2da9p558z2",60,NA,NA,36,3,3280,0,33,12,FALSE,"hit",1807,23,5,8,"player bust",1554
+"0p59eph6tzow3b2da9p558z2",60,NA,NA,36,3,3280,0,33,12,FALSE,"hit",1121,23,5,8,"player bust",1554
+"0p59eph6tzow3b2da9p558z2",61,NA,NA,33,3,2881,6,36,20,FALSE,"stand",1656,20,8,19,"player win",1637
+"0p59eph6tzow3b2da9p558z2",62,NA,NA,36,3,2658,0,33,17,FALSE,"stand",1763,17,9,20,"dealer win",1586
+"0p59eph6tzow3b2da9p558z2",63,32,4096,33,3,2312,6,36,14,FALSE,"hit",2252,21,11,23,"dealer bust",1791
+"0p59eph6tzow3b2da9p558z2",63,32,4096,33,3,2312,6,36,14,FALSE,"stand",1009,21,11,23,"dealer bust",1791
+"0p59eph6tzow3b2da9p558z2",64,NA,NA,36,3,3212,0,33,15,FALSE,"hit",5187,25,9,17,"player bust",1799
+"0p59eph6tzow3b2da9p558z2",65,NA,NA,33,3,3629,8,38,21,TRUE,"stand",2023,21,6,14,"blackjack; player win",2760
+"0p59eph6tzow3b2da9p558z2",66,48,4769,38,3,2776,6,41,13,FALSE,"stand",3016,13,6,25,"dealer bust",6830
+"0p59eph6tzow3b2da9p558z2",67,NA,NA,41,4,4188,0,37,13,FALSE,"stand",7877,13,4,18,"dealer win",1678
+"0p59eph6tzow3b2da9p558z2",68,NA,NA,37,3,2943,0,34,15,FALSE,"stand",3395,15,5,18,"dealer win",2114
+"0p59eph6tzow3b2da9p558z2",69,39,3567,34,3,2168,0,31,12,FALSE,"hit",2476,22,2,10,"player bust",1920
+"0p59eph6tzow3b2da9p558z2",70,NA,NA,31,3,2937,0,28,10,FALSE,"hit",1987,15,11,21,"dealer win",3516
+"0p59eph6tzow3b2da9p558z2",70,NA,NA,31,3,2937,0,28,10,FALSE,"hit",1136,15,11,21,"dealer win",3516
+"0p59eph6tzow3b2da9p558z2",70,NA,NA,31,3,2937,0,28,10,FALSE,"stand",2569,15,11,21,"dealer win",3516
+"0p59eph6tzow3b2da9p558z2",71,NA,NA,28,2,3033,4,30,20,FALSE,"stand",1713,20,9,18,"player win",1601
+"0p59eph6tzow3b2da9p558z2",72,NA,NA,30,3,2766,6,33,14,FALSE,"hit",4637,16,8,24,"dealer bust",1667
+"0p59eph6tzow3b2da9p558z2",72,NA,NA,30,3,2766,6,33,14,FALSE,"stand",1244,16,8,24,"dealer bust",1667
+"0p59eph6tzow3b2da9p558z2",73,45,2991,33,3,2860,6,36,20,FALSE,"stand",1625,20,2,17,"player win",1807
+"0p59eph6tzow3b2da9p558z2",74,NA,NA,36,3,3226,6,39,20,FALSE,"stand",1523,20,9,18,"player win",1667
+"0p59eph6tzow3b2da9p558z2",75,54,3422,39,3,2913,6,42,14,FALSE,"hit",2654,21,6,19,"player win",2346
+"0p59eph6tzow3b2da9p558z2",75,54,3422,39,3,2913,6,42,14,FALSE,"stand",1013,21,6,19,"player win",2346
+"0p59eph6tzow3b2da9p558z2",76,NA,NA,42,4,3018,0,38,16,FALSE,"stand",3491,16,11,19,"dealer win",1934
+"0p59eph6tzow3b2da9p558z2",77,NA,NA,38,3,3637,6,41,20,FALSE,"stand",1614,20,8,18,"player win",1540
+"0p59eph6tzow3b2da9p558z2",78,NA,NA,41,4,4911,8,45,19,FALSE,"stand",1852,19,9,22,"dealer bust",1630
+"0p59eph6tzow3b2da9p558z2",79,59,4148,45,4,2568,8,49,14,TRUE,"hit",2876,21,7,23,"dealer bust",3161
+"0p59eph6tzow3b2da9p558z2",79,59,4148,45,4,2568,8,49,14,TRUE,"stand",1011,21,7,23,"dealer bust",3161
+"0p59eph6tzow3b2da9p558z2",80,NA,NA,49,4,2999,0,45,18,TRUE,"stand",2257,18,9,19,"dealer win",1498
+"0q7lmatauk5b3gxbhg763oah",1,50,2009,500,50,4284,100,550,20,FALSE,"stand",2692,20,8,17,"player win",1441
+"0q7lmatauk5b3gxbhg763oah",2,NA,NA,550,50,3883,100,600,20,FALSE,"stand",2256,20,2,23,"dealer bust",3115
+"0q7lmatauk5b3gxbhg763oah",3,69,2717,600,100,3228,200,700,9,FALSE,"hit",2868,21,10,18,"player win",2073
+"0q7lmatauk5b3gxbhg763oah",3,69,2717,600,100,3228,200,700,9,FALSE,"hit",2468,21,10,18,"player win",2073
+"0q7lmatauk5b3gxbhg763oah",3,69,2717,600,100,3228,200,700,9,FALSE,"stand",1001,21,10,18,"player win",2073
+"0q7lmatauk5b3gxbhg763oah",4,NA,NA,700,100,5231,0,600,13,FALSE,"hit",2660,23,2,12,"player bust",1146
+"0q7lmatauk5b3gxbhg763oah",4,NA,NA,700,100,5231,0,600,13,FALSE,"hit",2004,23,2,12,"player bust",1146
+"0q7lmatauk5b3gxbhg763oah",5,NA,NA,600,50,2745,100,650,8,FALSE,"hit",1896,18,5,25,"dealer bust",1332
+"0q7lmatauk5b3gxbhg763oah",5,NA,NA,600,50,2745,100,650,8,FALSE,"stand",2205,18,5,25,"dealer bust",1332
+"0q7lmatauk5b3gxbhg763oah",6,NA,NA,650,100,7066,200,750,19,FALSE,"stand",2324,19,7,17,"player win",3627
+"0q7lmatauk5b3gxbhg763oah",7,70,5157,750,100,4149,0,650,20,FALSE,"stand",1811,20,4,21,"dealer win",813
+"0q7lmatauk5b3gxbhg763oah",8,NA,NA,650,50,3653,0,600,14,FALSE,"hit",1604,24,10,20,"player bust",393
+"0q7lmatauk5b3gxbhg763oah",9,NA,NA,600,50,2268,50,600,16,FALSE,"hit",1412,20,4,20,"draw",3316
+"0q7lmatauk5b3gxbhg763oah",9,NA,NA,600,50,2268,50,600,16,FALSE,"stand",1140,20,4,20,"draw",3316
+"0q7lmatauk5b3gxbhg763oah",10,NA,NA,600,100,2997,100,600,15,TRUE,"hit",1444,21,10,21,"draw",1104
+"0q7lmatauk5b3gxbhg763oah",10,NA,NA,600,100,2997,100,600,15,TRUE,"stand",1001,21,10,21,"draw",1104
+"0q7lmatauk5b3gxbhg763oah",11,63,2944,600,100,3748,200,700,9,FALSE,"hit",2132,19,10,17,"player win",732
+"0q7lmatauk5b3gxbhg763oah",11,63,2944,600,100,3748,200,700,9,FALSE,"stand",1556,19,10,17,"player win",732
+"0q7lmatauk5b3gxbhg763oah",12,NA,NA,700,100,3346,0,600,12,FALSE,"hit",2031,23,10,15,"player bust",1178
+"0q7lmatauk5b3gxbhg763oah",12,NA,NA,700,100,3346,0,600,12,FALSE,"hit",1232,23,10,15,"player bust",1178
+"0q7lmatauk5b3gxbhg763oah",13,NA,NA,600,100,2968,200,700,18,FALSE,"stand",1604,18,7,17,"player win",910
+"0q7lmatauk5b3gxbhg763oah",14,NA,NA,700,100,3477,100,700,20,TRUE,"stand",2032,20,10,20,"draw",486
+"0q7lmatauk5b3gxbhg763oah",15,65,2949,700,100,2996,0,600,12,FALSE,"hit",1364,22,7,13,"player bust",541
+"0q7lmatauk5b3gxbhg763oah",16,NA,NA,600,100,3340,0,500,12,FALSE,"hit",1528,22,6,15,"player bust",488
+"0q7lmatauk5b3gxbhg763oah",17,NA,NA,500,50,1948,0,450,16,TRUE,"hit",1088,25,10,13,"player bust",513
+"0q7lmatauk5b3gxbhg763oah",17,NA,NA,500,50,1948,0,450,16,FALSE,"hit",2708,25,10,13,"player bust",513
+"0q7lmatauk5b3gxbhg763oah",18,NA,NA,450,50,2585,100,500,15,FALSE,"hit",1600,17,10,22,"dealer bust",565
+"0q7lmatauk5b3gxbhg763oah",18,NA,NA,450,50,2585,100,500,15,FALSE,"hit",2164,17,10,22,"dealer bust",565
+"0q7lmatauk5b3gxbhg763oah",18,NA,NA,450,50,2585,100,500,15,FALSE,"stand",1216,17,10,22,"dealer bust",565
+"0q7lmatauk5b3gxbhg763oah",19,67,3817,500,100,4268,200,600,12,FALSE,"hit",1336,21,9,19,"player win",601
+"0q7lmatauk5b3gxbhg763oah",19,67,3817,500,100,4268,200,600,12,FALSE,"hit",1596,21,9,19,"player win",601
+"0q7lmatauk5b3gxbhg763oah",19,67,3817,500,100,4268,200,600,12,FALSE,"stand",1001,21,9,19,"player win",601
+"0q7lmatauk5b3gxbhg763oah",20,NA,NA,600,50,3460,100,650,12,FALSE,"hit",1096,16,10,26,"dealer bust",4211
+"0q7lmatauk5b3gxbhg763oah",20,NA,NA,600,50,3460,100,650,12,FALSE,"stand",1681,16,10,26,"dealer bust",4211
+"0q7lmatauk5b3gxbhg763oah",21,NA,NA,650,50,3001,0,600,13,FALSE,"hit",1184,16,3,21,"dealer win",2054
+"0q7lmatauk5b3gxbhg763oah",21,NA,NA,650,50,3001,0,600,13,FALSE,"stand",1920,16,3,21,"dealer win",2054
+"0q7lmatauk5b3gxbhg763oah",22,50,2205,600,100,4456,250,750,21,TRUE,"stand",2003,21,4,9,"blackjack; player win",4081
+"0q7lmatauk5b3gxbhg763oah",23,NA,NA,750,50,3617,125,825,21,TRUE,"stand",2003,21,2,12,"blackjack; player win",767
+"0q7lmatauk5b3gxbhg763oah",24,72,3304,825,100,6101,200,925,16,FALSE,"hit",1524,20,10,17,"player win",7858
+"0q7lmatauk5b3gxbhg763oah",24,72,3304,825,100,6101,200,925,16,FALSE,"stand",912,20,10,17,"player win",7858
+"0q7lmatauk5b3gxbhg763oah",25,NA,NA,925,100,24040,0,825,15,FALSE,"hit",1796,25,10,20,"player bust",8510
+"0q7lmatauk5b3gxbhg763oah",26,NA,NA,825,100,3104,0,725,19,FALSE,"stand",2084,19,10,21,"dealer win",872
+"0q7lmatauk5b3gxbhg763oah",27,64,3005,725,50,3620,100,775,11,FALSE,"hit",1348,19,6,26,"dealer bust",1599
+"0q7lmatauk5b3gxbhg763oah",27,64,3005,725,50,3620,100,775,11,FALSE,"stand",1008,19,6,26,"dealer bust",1599
+"0q7lmatauk5b3gxbhg763oah",28,NA,NA,775,100,3313,200,875,20,FALSE,"stand",1920,20,6,19,"player win",2987
+"0q7lmatauk5b3gxbhg763oah",29,NA,NA,875,200,4437,0,675,10,FALSE,"hit",1428,24,2,12,"player bust",1240
+"0q7lmatauk5b3gxbhg763oah",29,NA,NA,875,200,4437,0,675,10,FALSE,"hit",1430,24,2,12,"player bust",1240
+"0q7lmatauk5b3gxbhg763oah",30,50,2020,675,200,3856,0,475,6,FALSE,"hit",2441,24,10,14,"player bust",4820
+"0q7lmatauk5b3gxbhg763oah",30,50,2020,675,200,3856,0,475,6,FALSE,"hit",2618,24,10,14,"player bust",4820
+"0q7lmatauk5b3gxbhg763oah",31,NA,NA,475,50,2660,0,425,9,FALSE,"hit",4643,24,5,16,"player bust",53
+"0q7lmatauk5b3gxbhg763oah",31,NA,NA,475,50,2660,0,425,9,FALSE,"hit",4292,24,5,16,"player bust",53
+"0q7lmatauk5b3gxbhg763oah",32,NA,NA,425,50,2600,100,475,18,FALSE,"stand",2177,18,7,24,"dealer bust",3680
+"0q7lmatauk5b3gxbhg763oah",33,NA,NA,475,50,5987,0,425,14,FALSE,"hit",1601,24,10,20,"player bust",40286
+"0q7lmatauk5b3gxbhg763oah",34,50,7085,425,50,2792,0,375,5,FALSE,"hit",2324,24,3,11,"player bust",5882
+"0q7lmatauk5b3gxbhg763oah",34,50,7085,425,50,2792,0,375,5,FALSE,"hit",836,24,3,11,"player bust",5882
+"0q7lmatauk5b3gxbhg763oah",34,50,7085,425,50,2792,0,375,5,FALSE,"hit",1696,24,3,11,"player bust",5882
+"0q7lmatauk5b3gxbhg763oah",35,NA,NA,375,25,5218,50,400,16,FALSE,"hit",3011,21,7,18,"player win",947149
+"0q7lmatauk5b3gxbhg763oah",35,NA,NA,375,25,5218,50,400,16,FALSE,"stand",1000,21,7,18,"player win",947149
+"0q7lmatauk5b3gxbhg763oah",36,NA,NA,400,100,4208,0,300,20,FALSE,"stand",2180,20,10,21,"dealer win",11668
+"0q7lmatauk5b3gxbhg763oah",37,60,4146,300,100,3684,200,400,20,FALSE,"stand",1676,20,3,17,"player win",4773
+"0q7lmatauk5b3gxbhg763oah",38,NA,NA,400,100,6457,200,500,5,FALSE,"hit",1436,20,2,17,"player win",2172
+"0q7lmatauk5b3gxbhg763oah",38,NA,NA,400,100,6457,200,500,5,FALSE,"hit",744,20,2,17,"player win",2172
+"0q7lmatauk5b3gxbhg763oah",38,NA,NA,400,100,6457,200,500,5,FALSE,"stand",1016,20,2,17,"player win",2172
+"0q7lmatauk5b3gxbhg763oah",39,50,1424,500,100,3004,0,400,16,FALSE,"hit",1533,22,2,12,"player bust",992
+"0q7lmatauk5b3gxbhg763oah",40,NA,NA,400,50,2544,0,350,18,FALSE,"stand",1760,18,10,19,"dealer win",1176
+"0q7lmatauk5b3gxbhg763oah",41,NA,NA,350,50,2373,0,300,12,FALSE,"hit",1224,22,7,15,"player bust",1157
+"0q7lmatauk5b3gxbhg763oah",42,NA,NA,300,50,3041,0,250,17,TRUE,"stand",2244,17,11,20,"dealer win",551
+"0q7lmatauk5b3gxbhg763oah",43,26,1789,250,50,2992,0,200,14,FALSE,"hit",1044,23,4,10,"player bust",666
+"0q7lmatauk5b3gxbhg763oah",44,NA,NA,200,50,2313,0,150,11,FALSE,"hit",1092,18,10,21,"dealer win",535
+"0q7lmatauk5b3gxbhg763oah",44,NA,NA,200,50,2313,0,150,11,FALSE,"stand",1008,18,10,21,"dealer win",535
+"0q7lmatauk5b3gxbhg763oah",45,NA,NA,150,25,2393,0,125,10,FALSE,"hit",1056,22,3,6,"player bust",464
+"0q7lmatauk5b3gxbhg763oah",45,NA,NA,150,25,2393,0,125,10,FALSE,"hit",3041,22,3,6,"player bust",464
+"0q7lmatauk5b3gxbhg763oah",46,24,2152,125,25,2768,50,150,13,TRUE,"hit",1188,21,4,22,"dealer bust",4
+"0q7lmatauk5b3gxbhg763oah",46,24,2152,125,25,2768,50,150,13,TRUE,"stand",1001,21,4,22,"dealer bust",4
+"0q7lmatauk5b3gxbhg763oah",47,NA,NA,150,50,2072,100,200,20,FALSE,"stand",1596,20,6,25,"dealer bust",453
+"0q7lmatauk5b3gxbhg763oah",48,NA,NA,200,200,4081,200,200,19,FALSE,"stand",2016,19,8,19,"draw",640
+"0q7lmatauk5b3gxbhg763oah",49,NA,NA,200,100,3009,0,100,8,FALSE,"hit",2268,17,11,18,"dealer win",1893
+"0q7lmatauk5b3gxbhg763oah",49,NA,NA,200,100,3009,0,100,8,FALSE,"stand",1616,17,11,18,"dealer win",1893
+"0q7lmatauk5b3gxbhg763oah",50,16,3169,100,100,2868,0,0,13,FALSE,"hit",1156,23,6,16,"player bust",657
+"0q7lmatauk5b3gxbhg763oah",51,NA,NA,500,100,4257,0,400,12,FALSE,"hit",1668,24,7,10,"player bust",460
+"0q7lmatauk5b3gxbhg763oah",51,NA,NA,500,100,4257,0,400,12,FALSE,"hit",1780,24,7,10,"player bust",460
+"0q7lmatauk5b3gxbhg763oah",52,NA,NA,400,100,2593,0,300,13,FALSE,"hit",1828,24,10,20,"player bust",436
+"0q7lmatauk5b3gxbhg763oah",52,NA,NA,400,100,2593,0,300,13,FALSE,"hit",1104,24,10,20,"player bust",436
+"0q7lmatauk5b3gxbhg763oah",53,12,2798,300,100,3115,200,400,17,TRUE,"hit",1120,17,3,25,"dealer bust",444
+"0q7lmatauk5b3gxbhg763oah",53,12,2798,300,100,3115,200,400,17,FALSE,"stand",1396,17,3,25,"dealer bust",444
+"0q7lmatauk5b3gxbhg763oah",54,NA,NA,400,100,2422,200,500,7,FALSE,"hit",1263,21,10,17,"player win",457
+"0q7lmatauk5b3gxbhg763oah",54,NA,NA,400,100,2422,200,500,7,FALSE,"hit",772,21,10,17,"player win",457
+"0q7lmatauk5b3gxbhg763oah",54,NA,NA,400,100,2422,200,500,7,FALSE,"stand",1000,21,10,17,"player win",457
+"0q7lmatauk5b3gxbhg763oah",55,NA,NA,500,100,2485,0,400,15,FALSE,"hit",1112,25,7,16,"player bust",62
+"0q7lmatauk5b3gxbhg763oah",56,27,2813,400,100,3028,0,300,16,FALSE,"hit",1776,26,5,15,"player bust",129
+"0q7lmatauk5b3gxbhg763oah",57,NA,NA,300,100,2205,200,400,13,FALSE,"hit",1140,19,10,17,"player win",547
+"0q7lmatauk5b3gxbhg763oah",57,NA,NA,300,100,2205,200,400,13,FALSE,"stand",784,19,10,17,"player win",547
+"0q7lmatauk5b3gxbhg763oah",58,NA,NA,400,100,2276,0,300,14,FALSE,"hit",1155,24,11,18,"player bust",385
+"0q7lmatauk5b3gxbhg763oah",59,43,2069,300,100,2596,0,200,17,TRUE,"stand",2614,17,11,18,"dealer win",435
+"0q7lmatauk5b3gxbhg763oah",60,NA,NA,200,200,2701,500,500,21,TRUE,"stand",2001,21,10,12,"blackjack; player win",741
+"0q7lmatauk5b3gxbhg763oah",61,NA,NA,500,200,3668,200,500,10,FALSE,"hit",1028,20,10,20,"draw",1561
+"0q7lmatauk5b3gxbhg763oah",61,NA,NA,500,200,3668,200,500,10,FALSE,"stand",736,20,10,20,"draw",1561
+"0q7lmatauk5b3gxbhg763oah",62,NA,NA,500,200,2662,400,700,13,FALSE,"hit",1043,18,10,17,"player win",49434
+"0q7lmatauk5b3gxbhg763oah",62,NA,NA,500,200,2662,400,700,13,FALSE,"hit",1433,18,10,17,"player win",49434
+"0q7lmatauk5b3gxbhg763oah",62,NA,NA,500,200,2662,400,700,13,FALSE,"stand",719,18,10,17,"player win",49434
+"0q7lmatauk5b3gxbhg763oah",63,62,2488,700,200,2852,0,500,13,FALSE,"hit",1340,23,10,20,"player bust",699
+"0q7lmatauk5b3gxbhg763oah",64,NA,NA,500,200,2440,400,700,14,FALSE,"hit",1152,18,10,24,"dealer bust",492
+"0q7lmatauk5b3gxbhg763oah",64,NA,NA,500,200,2440,400,700,14,FALSE,"stand",2204,18,10,24,"dealer bust",492
+"0q7lmatauk5b3gxbhg763oah",65,62,2562,700,200,2868,0,500,16,FALSE,"hit",1168,26,10,15,"player bust",317
+"0q7lmatauk5b3gxbhg763oah",66,NA,NA,500,200,2451,400,700,12,TRUE,"hit",1216,19,8,18,"player win",509
+"0q7lmatauk5b3gxbhg763oah",66,NA,NA,500,200,2451,400,700,12,TRUE,"stand",1184,19,8,18,"player win",509
+"0q7lmatauk5b3gxbhg763oah",67,64,2220,700,200,2116,200,700,11,FALSE,"hit",817,20,5,20,"draw",680
+"0q7lmatauk5b3gxbhg763oah",67,64,2220,700,200,2116,200,700,11,FALSE,"stand",735,20,5,20,"draw",680
+"0q7lmatauk5b3gxbhg763oah",68,NA,NA,700,200,2473,0,500,17,FALSE,"stand",1540,17,4,19,"dealer win",361
+"0q7lmatauk5b3gxbhg763oah",69,NA,NA,500,200,2661,0,300,12,FALSE,"hit",1024,25,10,20,"player bust",28
+"0q7lmatauk5b3gxbhg763oah",69,NA,NA,500,200,2661,0,300,12,FALSE,"hit",2612,25,10,20,"player bust",28
+"0q7lmatauk5b3gxbhg763oah",70,50,2005,300,200,2816,200,300,20,FALSE,"stand",1444,20,11,20,"draw",429
+"0q7lmatauk5b3gxbhg763oah",71,NA,NA,300,200,2389,500,600,21,TRUE,"stand",2003,21,11,16,"blackjack; player win",579
+"0q7lmatauk5b3gxbhg763oah",72,59,1972,600,300,7448,0,300,20,FALSE,"stand",1652,20,8,21,"dealer win",433
+"0q7lmatauk5b3gxbhg763oah",73,NA,NA,300,300,2836,600,600,16,FALSE,"hit",1280,17,5,25,"dealer bust",415
+"0q7lmatauk5b3gxbhg763oah",73,NA,NA,300,300,2836,600,600,16,FALSE,"stand",2484,17,5,25,"dealer bust",415
+"0q7lmatauk5b3gxbhg763oah",74,66,2150,600,300,2843,0,300,16,FALSE,"hit",1360,23,10,20,"player bust",26
+"0q7lmatauk5b3gxbhg763oah",75,NA,NA,300,200,2800,400,500,20,FALSE,"stand",1072,20,10,24,"dealer bust",512
+"0q7lmatauk5b3gxbhg763oah",76,NA,NA,500,300,2738,0,200,13,FALSE,"hit",1683,15,2,19,"dealer win",446
+"0q7lmatauk5b3gxbhg763oah",76,NA,NA,500,300,2738,0,200,13,FALSE,"stand",4052,15,2,19,"dealer win",446
+"0q7lmatauk5b3gxbhg763oah",77,50,1928,200,200,2596,0,0,14,FALSE,"hit",1189,24,2,12,"player bust",5272
+"0q7lmatauk5b3gxbhg763oah",78,NA,NA,500,500,3138,0,0,12,FALSE,"hit",1344,18,4,21,"dealer win",1013
+"0q7lmatauk5b3gxbhg763oah",78,NA,NA,500,500,3138,0,0,12,FALSE,"hit",2252,18,4,21,"dealer win",1013
+"0q7lmatauk5b3gxbhg763oah",78,NA,NA,500,500,3138,0,0,12,FALSE,"stand",992,18,4,21,"dealer win",1013
+"0q7lmatauk5b3gxbhg763oah",79,NA,NA,500,500,4230,1000,1000,10,FALSE,"hit",1204,21,10,23,"dealer bust",539
+"0q7lmatauk5b3gxbhg763oah",79,NA,NA,500,500,4230,1000,1000,10,TRUE,"stand",1002,21,10,23,"dealer bust",539
+"0q7lmatauk5b3gxbhg763oah",80,65,2441,1000,500,3368,0,500,9,FALSE,"hit",1152,27,7,13,"player bust",714
+"0q7lmatauk5b3gxbhg763oah",80,65,2441,1000,500,3368,0,500,9,FALSE,"hit",1040,27,7,13,"player bust",714
+"1g521uz29wpbnxccp79euu4m",1,65,6642,500,25,5735,0,475,18,FALSE,"stand",4851,18,4,20,"dealer win",1811
+"1g521uz29wpbnxccp79euu4m",2,NA,NA,475,15,3487,0,460,14,FALSE,"hit",1828,24,9,19,"player bust",1027
+"1g521uz29wpbnxccp79euu4m",3,NA,NA,460,15,3251,30,475,11,FALSE,"hit",2024,17,6,25,"dealer bust",1137
+"1g521uz29wpbnxccp79euu4m",3,NA,NA,460,15,3251,30,475,11,FALSE,"hit",1487,17,6,25,"dealer bust",1137
+"1g521uz29wpbnxccp79euu4m",3,NA,NA,460,15,3251,30,475,11,FALSE,"stand",1428,17,6,25,"dealer bust",1137
+"1g521uz29wpbnxccp79euu4m",4,66,3969,475,15,8593,30,490,19,FALSE,"stand",1718,19,7,18,"player win",1077
+"1g521uz29wpbnxccp79euu4m",5,NA,NA,490,20,4485,0,470,11,FALSE,"hit",1853,23,3,13,"player bust",702
+"1g521uz29wpbnxccp79euu4m",5,NA,NA,490,20,4485,0,470,11,FALSE,"hit",1014,23,3,13,"player bust",702
+"1g521uz29wpbnxccp79euu4m",6,68,4029,470,25,2374,50,495,19,FALSE,"stand",2202,19,7,18,"player win",812
+"1g521uz29wpbnxccp79euu4m",7,NA,NA,495,50,4314,0,445,14,FALSE,"hit",1488,22,8,14,"player bust",735
+"1g521uz29wpbnxccp79euu4m",8,69,3931,445,25,6280,50,470,20,FALSE,"stand",1899,20,4,17,"player win",751
+"1g521uz29wpbnxccp79euu4m",9,NA,NA,470,25,2308,0,445,15,TRUE,"hit",1883,20,9,21,"dealer win",727
+"1g521uz29wpbnxccp79euu4m",9,NA,NA,470,25,2308,0,445,15,TRUE,"stand",1350,20,9,21,"dealer win",727
+"1g521uz29wpbnxccp79euu4m",10,NA,NA,445,50,3017,50,445,20,FALSE,"stand",3169,20,10,20,"draw",4318
+"1g521uz29wpbnxccp79euu4m",11,66,3631,445,35,5880,0,410,13,FALSE,"hit",1392,25,4,14,"player bust",1041
+"1g521uz29wpbnxccp79euu4m",11,66,3631,445,35,5880,0,410,13,FALSE,"hit",897,25,4,14,"player bust",1041
+"1g521uz29wpbnxccp79euu4m",12,NA,NA,410,25,2433,50,435,14,FALSE,"hit",1340,17,10,25,"dealer bust",1106
+"1g521uz29wpbnxccp79euu4m",12,NA,NA,410,25,2433,50,435,14,FALSE,"stand",1141,17,10,25,"dealer bust",1106
+"1g521uz29wpbnxccp79euu4m",13,NA,NA,435,35,2979,70,470,16,FALSE,"hit",1564,19,8,18,"player win",850
+"1g521uz29wpbnxccp79euu4m",13,NA,NA,435,35,2979,70,470,16,FALSE,"stand",1096,19,8,18,"player win",850
+"1g521uz29wpbnxccp79euu4m",14,67,2539,470,20,3683,0,450,10,FALSE,"hit",2077,19,3,21,"dealer win",1932
+"1g521uz29wpbnxccp79euu4m",14,67,2539,470,20,3683,0,450,10,FALSE,"stand",1254,19,3,21,"dealer win",1932
+"1g521uz29wpbnxccp79euu4m",15,NA,NA,450,50,3528,100,500,13,TRUE,"hit",1227,21,8,17,"player win",1239
+"1g521uz29wpbnxccp79euu4m",15,NA,NA,450,50,3528,100,500,13,TRUE,"stand",1001,21,8,17,"player win",1239
+"1g521uz29wpbnxccp79euu4m",16,NA,NA,500,20,3413,40,520,13,TRUE,"hit",1357,21,3,17,"player win",2206
+"1g521uz29wpbnxccp79euu4m",16,NA,NA,500,20,3413,40,520,13,TRUE,"stand",1002,21,3,17,"player win",2206
+"1g521uz29wpbnxccp79euu4m",17,68,3590,520,20,3865,0,500,8,FALSE,"hit",1289,23,7,12,"player bust",1128
+"1g521uz29wpbnxccp79euu4m",17,68,3590,520,20,3865,0,500,8,FALSE,"hit",748,23,7,12,"player bust",1128
+"1g521uz29wpbnxccp79euu4m",18,NA,NA,500,20,3451,0,480,20,TRUE,"stand",1771,20,10,21,"dealer win",1497
+"1g521uz29wpbnxccp79euu4m",19,NA,NA,480,20,2906,40,500,20,FALSE,"stand",1736,20,9,18,"player win",2304
+"1g521uz29wpbnxccp79euu4m",20,69,2758,500,35,5684,70,535,12,FALSE,"hit",1558,16,3,22,"dealer bust",1272
+"1g521uz29wpbnxccp79euu4m",20,69,2758,500,35,5684,70,535,12,FALSE,"hit",1084,16,3,22,"dealer bust",1272
+"1g521uz29wpbnxccp79euu4m",20,69,2758,500,35,5684,70,535,12,FALSE,"stand",3526,16,3,22,"dealer bust",1272
+"1g521uz29wpbnxccp79euu4m",21,NA,NA,535,30,3116,0,505,15,FALSE,"hit",1719,18,7,21,"dealer win",2121
+"1g521uz29wpbnxccp79euu4m",21,NA,NA,535,30,3116,0,505,15,FALSE,"stand",1218,18,7,21,"dealer win",2121
+"1g521uz29wpbnxccp79euu4m",22,NA,NA,505,30,4321,30,505,19,FALSE,"stand",1498,19,11,19,"draw",1536
+"1g521uz29wpbnxccp79euu4m",23,71,2755,505,15,3236,0,490,11,FALSE,"hit",2462,19,11,21,"dealer win",2059
+"1g521uz29wpbnxccp79euu4m",23,71,2755,505,15,3236,0,490,11,FALSE,"stand",1080,19,11,21,"dealer win",2059
+"1g521uz29wpbnxccp79euu4m",24,NA,NA,490,25,2501,50,515,9,FALSE,"hit",3106,20,4,23,"dealer bust",953
+"1g521uz29wpbnxccp79euu4m",24,NA,NA,490,25,2501,50,515,9,TRUE,"stand",1058,20,4,23,"dealer bust",953
+"1g521uz29wpbnxccp79euu4m",25,NA,NA,515,35,3547,88,568,21,TRUE,"stand",2003,21,2,13,"blackjack; player win",1550
+"1g521uz29wpbnxccp79euu4m",26,NA,NA,568,23,5112,0,545,14,FALSE,"hit",1659,17,8,18,"dealer win",900
+"1g521uz29wpbnxccp79euu4m",26,NA,NA,568,23,5112,0,545,14,FALSE,"stand",1365,17,8,18,"dealer win",900
+"1g521uz29wpbnxccp79euu4m",27,72,2634,545,25,2567,50,570,9,FALSE,"hit",1629,21,8,17,"player win",2737
+"1g521uz29wpbnxccp79euu4m",27,72,2634,545,25,2567,50,570,9,FALSE,"hit",690,21,8,17,"player win",2737
+"1g521uz29wpbnxccp79euu4m",27,72,2634,545,25,2567,50,570,9,FALSE,"stand",1001,21,8,17,"player win",2737
+"1g521uz29wpbnxccp79euu4m",28,NA,NA,570,25,11767,50,595,8,FALSE,"hit",1441,18,8,25,"dealer bust",1220
+"1g521uz29wpbnxccp79euu4m",28,NA,NA,570,25,11767,50,595,8,FALSE,"stand",1126,18,8,25,"dealer bust",1220
+"1g521uz29wpbnxccp79euu4m",29,75,3538,595,15,2547,30,610,20,FALSE,"stand",1185,20,8,19,"player win",1077
+"1g521uz29wpbnxccp79euu4m",30,NA,NA,610,10,2608,20,620,11,FALSE,"hit",1372,21,2,19,"player win",1113
+"1g521uz29wpbnxccp79euu4m",30,NA,NA,610,10,2608,20,620,11,FALSE,"stand",1001,21,2,19,"player win",1113
+"1g521uz29wpbnxccp79euu4m",31,NA,NA,620,25,2634,0,595,12,FALSE,"hit",1277,22,3,14,"player bust",1509
+"1g521uz29wpbnxccp79euu4m",32,77,3607,595,15,3362,30,610,19,FALSE,"stand",1103,19,3,18,"player win",786
+"1g521uz29wpbnxccp79euu4m",33,NA,NA,610,25,3182,0,585,14,FALSE,"hit",1185,17,5,21,"dealer win",830
+"1g521uz29wpbnxccp79euu4m",33,NA,NA,610,25,3182,0,585,14,FALSE,"stand",1644,17,5,21,"dealer win",830
+"1g521uz29wpbnxccp79euu4m",34,NA,NA,585,35,3621,35,585,20,FALSE,"stand",1347,20,10,20,"draw",1209
+"1g521uz29wpbnxccp79euu4m",35,79,2939,585,20,3546,0,565,14,FALSE,"hit",1331,26,11,20,"player bust",1222
+"1g521uz29wpbnxccp79euu4m",35,79,2939,585,20,3546,0,565,14,FALSE,"hit",1122,26,11,20,"player bust",1222
+"1g521uz29wpbnxccp79euu4m",36,NA,NA,565,15,3695,0,550,18,FALSE,"stand",1262,18,11,21,"dealer win",1532
+"1g521uz29wpbnxccp79euu4m",37,NA,NA,550,50,3800,100,600,10,FALSE,"hit",1396,20,9,19,"player win",985
+"1g521uz29wpbnxccp79euu4m",37,NA,NA,550,50,3800,100,600,10,FALSE,"stand",992,20,9,19,"player win",985
+"1g521uz29wpbnxccp79euu4m",38,NA,NA,600,20,2533,40,620,12,FALSE,"hit",1238,21,6,18,"player win",1531
+"1g521uz29wpbnxccp79euu4m",38,NA,NA,600,20,2533,40,620,12,FALSE,"stand",1001,21,6,18,"player win",1531
+"1g521uz29wpbnxccp79euu4m",39,82,3046,620,20,4305,0,600,15,FALSE,"hit",1445,25,11,21,"player bust",1814
+"1g521uz29wpbnxccp79euu4m",40,NA,NA,600,15,2657,30,615,20,FALSE,"stand",1249,20,10,19,"player win",1435
+"1g521uz29wpbnxccp79euu4m",41,84,3115,615,35,2678,0,580,6,FALSE,"hit",1417,23,10,20,"player bust",924
+"1g521uz29wpbnxccp79euu4m",41,84,3115,615,35,2678,0,580,6,FALSE,"hit",2630,23,10,20,"player bust",924
+"1g521uz29wpbnxccp79euu4m",42,NA,NA,580,25,3662,0,555,14,FALSE,"hit",1288,22,10,20,"player bust",659
+"1g521uz29wpbnxccp79euu4m",43,NA,NA,555,25,2922,0,530,13,FALSE,"hit",1200,23,10,20,"player bust",1514
+"1g521uz29wpbnxccp79euu4m",44,NA,NA,530,15,2853,0,515,15,FALSE,"hit",1146,23,8,18,"player bust",659
+"1g521uz29wpbnxccp79euu4m",45,81,5282,515,15,2545,0,500,12,FALSE,"hit",1338,25,4,6,"player bust",812
+"1g521uz29wpbnxccp79euu4m",45,81,5282,515,15,2545,0,500,12,FALSE,"hit",845,25,4,6,"player bust",812
+"1g521uz29wpbnxccp79euu4m",46,NA,NA,500,15,2237,30,515,13,TRUE,"hit",1012,19,10,17,"player win",1578
+"1g521uz29wpbnxccp79euu4m",46,NA,NA,500,15,2237,30,515,13,FALSE,"hit",3181,19,10,17,"player win",1578
+"1g521uz29wpbnxccp79euu4m",46,NA,NA,500,15,2237,30,515,13,FALSE,"stand",1243,19,10,17,"player win",1578
+"1g521uz29wpbnxccp79euu4m",47,80,2975,515,15,3106,30,530,11,FALSE,"hit",1344,18,5,22,"dealer bust",1058
+"1g521uz29wpbnxccp79euu4m",47,80,2975,515,15,3106,30,530,11,FALSE,"stand",1083,18,5,22,"dealer bust",1058
+"1g521uz29wpbnxccp79euu4m",48,NA,NA,530,20,3937,0,510,16,FALSE,"hit",1291,23,7,14,"player bust",936
+"1g521uz29wpbnxccp79euu4m",49,NA,NA,510,10,2346,0,500,13,FALSE,"hit",1105,23,10,17,"player bust",778
+"1g521uz29wpbnxccp79euu4m",50,NA,NA,500,15,2805,30,515,13,FALSE,"hit",1384,20,7,18,"player win",916
+"1g521uz29wpbnxccp79euu4m",50,NA,NA,500,15,2805,30,515,13,FALSE,"hit",962,20,7,18,"player win",916
+"1g521uz29wpbnxccp79euu4m",50,NA,NA,500,15,2805,30,515,13,FALSE,"stand",885,20,7,18,"player win",916
+"1g521uz29wpbnxccp79euu4m",51,83,3299,515,25,3374,50,540,10,FALSE,"hit",1185,20,2,17,"player win",832
+"1g521uz29wpbnxccp79euu4m",51,83,3299,515,25,3374,50,540,10,FALSE,"stand",874,20,2,17,"player win",832
+"1g521uz29wpbnxccp79euu4m",52,NA,NA,540,20,2468,0,520,11,FALSE,"hit",1054,24,10,16,"player bust",886
+"1g521uz29wpbnxccp79euu4m",52,NA,NA,540,20,2468,0,520,11,FALSE,"hit",952,24,10,16,"player bust",886
+"1g521uz29wpbnxccp79euu4m",52,NA,NA,540,20,2468,0,520,11,FALSE,"hit",1844,24,10,16,"player bust",886
+"1g521uz29wpbnxccp79euu4m",53,NA,NA,520,25,5248,50,545,20,FALSE,"stand",1152,20,5,17,"player win",3215
+"1g521uz29wpbnxccp79euu4m",54,NA,NA,545,45,2647,0,500,17,FALSE,"stand",1095,17,4,18,"dealer win",1246
+"1g521uz29wpbnxccp79euu4m",55,83,2935,500,15,2346,0,485,17,FALSE,"stand",1632,17,6,18,"dealer win",668
+"1g521uz29wpbnxccp79euu4m",56,NA,NA,485,15,2460,38,508,21,TRUE,"stand",2003,21,3,6,"blackjack; player win",1294
+"1g521uz29wpbnxccp79euu4m",57,84,3079,508,28,4040,28,508,19,FALSE,"stand",1175,19,4,19,"draw",889
+"1g521uz29wpbnxccp79euu4m",58,NA,NA,508,28,2678,0,480,19,FALSE,"stand",1259,19,8,21,"dealer win",684
+"1g521uz29wpbnxccp79euu4m",59,NA,NA,480,15,2750,30,495,20,FALSE,"stand",1136,20,9,18,"player win",703
+"1g521uz29wpbnxccp79euu4m",60,NA,NA,495,20,3371,40,515,11,FALSE,"hit",1464,18,4,24,"dealer bust",900
+"1g521uz29wpbnxccp79euu4m",60,NA,NA,495,20,3371,40,515,11,FALSE,"stand",921,18,4,24,"dealer bust",900
+"1g521uz29wpbnxccp79euu4m",61,87,3133,515,15,2914,0,500,17,TRUE,"stand",1408,17,10,21,"dealer win",787
+"1g521uz29wpbnxccp79euu4m",62,NA,NA,500,25,2365,63,538,21,TRUE,"stand",2002,21,2,12,"blackjack; player win",3475
+"1g521uz29wpbnxccp79euu4m",63,NA,NA,538,38,3775,0,500,4,FALSE,"hit",1138,24,10,20,"player bust",503
+"1g521uz29wpbnxccp79euu4m",63,NA,NA,538,38,3775,0,500,4,FALSE,"hit",833,24,10,20,"player bust",503
+"1g521uz29wpbnxccp79euu4m",64,89,2812,500,25,2446,50,525,20,FALSE,"stand",1373,20,9,19,"player win",629
+"1g521uz29wpbnxccp79euu4m",65,NA,NA,525,25,2383,50,550,5,FALSE,"hit",1146,16,6,22,"dealer bust",1064
+"1g521uz29wpbnxccp79euu4m",65,NA,NA,525,25,2383,50,550,5,FALSE,"hit",694,16,6,22,"dealer bust",1064
+"1g521uz29wpbnxccp79euu4m",65,NA,NA,525,25,2383,50,550,5,FALSE,"hit",1129,16,6,22,"dealer bust",1064
+"1g521uz29wpbnxccp79euu4m",65,NA,NA,525,25,2383,50,550,5,FALSE,"stand",4113,16,6,22,"dealer bust",1064
+"1g521uz29wpbnxccp79euu4m",66,NA,NA,550,25,2394,0,525,11,FALSE,"hit",1150,17,10,18,"dealer win",484
+"1g521uz29wpbnxccp79euu4m",66,NA,NA,550,25,2394,0,525,11,FALSE,"stand",935,17,10,18,"dealer win",484
+"1g521uz29wpbnxccp79euu4m",67,92,3081,525,25,2537,50,550,19,FALSE,"stand",1203,19,8,17,"player win",498
+"1g521uz29wpbnxccp79euu4m",68,NA,NA,550,50,2592,100,600,11,FALSE,"hit",1210,21,5,19,"player win",902
+"1g521uz29wpbnxccp79euu4m",68,NA,NA,550,50,2592,100,600,11,FALSE,"hit",996,21,5,19,"player win",902
+"1g521uz29wpbnxccp79euu4m",68,NA,NA,550,50,2592,100,600,11,FALSE,"stand",1001,21,5,19,"player win",902
+"1g521uz29wpbnxccp79euu4m",69,NA,NA,600,25,2256,0,575,12,FALSE,"hit",1085,22,9,14,"player bust",592
+"1g521uz29wpbnxccp79euu4m",70,NA,NA,575,25,2010,50,600,12,FALSE,"hit",932,20,9,19,"player win",832
+"1g521uz29wpbnxccp79euu4m",70,NA,NA,575,25,2010,50,600,12,FALSE,"stand",891,20,9,19,"player win",832
+"1g521uz29wpbnxccp79euu4m",71,95,2974,600,35,2306,0,565,16,FALSE,"hit",1363,23,2,6,"player bust",784
+"1g521uz29wpbnxccp79euu4m",72,NA,NA,565,25,2559,25,565,12,FALSE,"hit",1047,21,4,21,"draw",489
+"1g521uz29wpbnxccp79euu4m",72,NA,NA,565,25,2559,25,565,12,FALSE,"stand",1001,21,4,21,"draw",489
+"1g521uz29wpbnxccp79euu4m",73,NA,NA,565,25,2112,0,540,15,FALSE,"hit",1215,25,2,6,"player bust",643
+"1g521uz29wpbnxccp79euu4m",74,89,3760,540,25,2495,50,565,20,FALSE,"stand",1385,20,9,19,"player win",755
+"1g521uz29wpbnxccp79euu4m",75,NA,NA,565,25,2089,0,540,11,FALSE,"hit",1284,18,10,20,"dealer win",842
+"1g521uz29wpbnxccp79euu4m",75,NA,NA,565,25,2089,0,540,11,FALSE,"hit",1103,18,10,20,"dealer win",842
+"1g521uz29wpbnxccp79euu4m",75,NA,NA,565,25,2089,0,540,11,FALSE,"stand",1027,18,10,20,"dealer win",842
+"1g521uz29wpbnxccp79euu4m",76,NA,NA,540,35,6686,0,505,19,FALSE,"stand",1357,19,10,21,"dealer win",1255
+"1g521uz29wpbnxccp79euu4m",77,NA,NA,505,25,2605,0,480,7,FALSE,"hit",1223,17,8,19,"dealer win",1007
+"1g521uz29wpbnxccp79euu4m",77,NA,NA,505,25,2605,0,480,7,FALSE,"stand",1012,17,8,19,"dealer win",1007
+"1g521uz29wpbnxccp79euu4m",78,85,2750,480,20,3046,0,460,10,FALSE,"hit",1358,24,10,18,"player bust",418
+"1g521uz29wpbnxccp79euu4m",78,85,2750,480,20,3046,0,460,10,FALSE,"hit",850,24,10,18,"player bust",418
+"1g521uz29wpbnxccp79euu4m",79,NA,NA,460,15,3301,0,445,15,FALSE,"hit",1499,25,3,13,"player bust",602
+"1g521uz29wpbnxccp79euu4m",80,NA,NA,445,45,3204,90,490,20,FALSE,"stand",1272,20,10,26,"dealer bust",1211
+"1n3e537gxj662mew10kxtg6g",1,50,1953,500,50,2315,125,575,21,TRUE,"stand",2023,21,2,12,"blackjack; player win",2855
+"1n3e537gxj662mew10kxtg6g",2,NA,NA,575,50,2339,0,525,15,FALSE,"stand",3274,15,4,20,"dealer win",1187
+"1n3e537gxj662mew10kxtg6g",3,NA,NA,525,50,1602,100,575,9,FALSE,"hit",4491,21,5,25,"dealer bust",1184
+"1n3e537gxj662mew10kxtg6g",3,NA,NA,525,50,1602,100,575,9,FALSE,"hit",1406,21,5,25,"dealer bust",1184
+"1n3e537gxj662mew10kxtg6g",3,NA,NA,525,50,1602,100,575,9,FALSE,"stand",1008,21,5,25,"dealer bust",1184
+"1n3e537gxj662mew10kxtg6g",4,50,3475,575,50,1769,0,525,16,FALSE,"stand",2302,16,3,17,"dealer win",1330
+"1n3e537gxj662mew10kxtg6g",5,NA,NA,525,50,1560,0,475,16,FALSE,"hit",4167,22,9,16,"player bust",23
+"1n3e537gxj662mew10kxtg6g",6,NA,NA,475,50,2333,0,425,13,TRUE,"stand",12238,13,5,20,"dealer win",1323
+"1n3e537gxj662mew10kxtg6g",7,NA,NA,425,50,2461,0,375,15,FALSE,"hit",1921,25,5,9,"player bust",92
+"1n3e537gxj662mew10kxtg6g",8,16,2781,375,50,2096,0,325,13,FALSE,"stand",6783,13,3,17,"dealer win",1189
+"1n3e537gxj662mew10kxtg6g",9,NA,NA,325,25,3412,50,350,5,FALSE,"hit",2118,20,8,18,"player win",6196
+"1n3e537gxj662mew10kxtg6g",9,NA,NA,325,25,3412,50,350,5,FALSE,"hit",4601,20,8,18,"player win",6196
+"1n3e537gxj662mew10kxtg6g",9,NA,NA,325,25,3412,50,350,5,FALSE,"stand",1567,20,8,18,"player win",6196
+"1n3e537gxj662mew10kxtg6g",10,NA,NA,350,50,2904,100,400,20,FALSE,"stand",1769,20,5,23,"dealer bust",4027
+"1n3e537gxj662mew10kxtg6g",11,50,4050,400,50,4898,100,450,11,FALSE,"hit",2302,21,2,19,"player win",1402
+"1n3e537gxj662mew10kxtg6g",11,50,4050,400,50,4898,100,450,11,FALSE,"stand",1005,21,2,19,"player win",1402
+"1n3e537gxj662mew10kxtg6g",12,NA,NA,450,50,2061,0,400,11,FALSE,"hit",1824,20,8,21,"dealer win",2366
+"1n3e537gxj662mew10kxtg6g",12,NA,NA,450,50,2061,0,400,11,FALSE,"hit",2678,20,8,21,"dealer win",2366
+"1n3e537gxj662mew10kxtg6g",12,NA,NA,450,50,2061,0,400,11,FALSE,"stand",1642,20,8,21,"dealer win",2366
+"1n3e537gxj662mew10kxtg6g",13,NA,NA,400,50,1847,125,475,21,TRUE,"stand",2014,21,2,12,"blackjack; player win",529
+"1n3e537gxj662mew10kxtg6g",14,50,2677,475,50,1771,0,425,9,FALSE,"hit",2079,19,7,21,"dealer win",1611
+"1n3e537gxj662mew10kxtg6g",14,50,2677,475,50,1771,0,425,9,FALSE,"stand",1482,19,7,21,"dealer win",1611
+"1n3e537gxj662mew10kxtg6g",15,NA,NA,425,25,3271,0,400,13,FALSE,"hit",2040,23,10,20,"player bust",2318
+"1n3e537gxj662mew10kxtg6g",16,NA,NA,400,25,1905,0,375,13,FALSE,"stand",3239,13,7,18,"dealer win",6710
+"1n3e537gxj662mew10kxtg6g",17,NA,NA,375,25,2122,0,350,11,FALSE,"hit",1672,24,10,20,"player bust",1068
+"1n3e537gxj662mew10kxtg6g",17,NA,NA,375,25,2122,0,350,11,FALSE,"hit",1250,24,10,20,"player bust",1068
+"1n3e537gxj662mew10kxtg6g",18,24,3864,350,25,1929,50,375,20,TRUE,"stand",1957,20,11,19,"player win",3046
+"1n3e537gxj662mew10kxtg6g",19,NA,NA,375,25,7926,25,375,11,FALSE,"hit",2306,20,10,20,"draw",1025
+"1n3e537gxj662mew10kxtg6g",19,NA,NA,375,25,7926,25,375,11,FALSE,"hit",2398,20,10,20,"draw",1025
+"1n3e537gxj662mew10kxtg6g",19,NA,NA,375,25,7926,25,375,11,FALSE,"stand",1614,20,10,20,"draw",1025
+"1n3e537gxj662mew10kxtg6g",20,NA,NA,375,25,2469,50,400,13,FALSE,"stand",7340,13,3,25,"dealer bust",1962
+"1n3e537gxj662mew10kxtg6g",21,50,1880,400,25,1722,50,425,19,FALSE,"stand",1738,19,8,22,"dealer bust",1686
+"1n3e537gxj662mew10kxtg6g",22,NA,NA,425,25,1987,0,400,14,FALSE,"hit",31338,24,9,15,"player bust",11640
+"1n3e537gxj662mew10kxtg6g",23,52,4703,400,25,5716,0,375,14,FALSE,"hit",2932,17,10,19,"dealer win",11329
+"1n3e537gxj662mew10kxtg6g",23,52,4703,400,25,5716,0,375,14,FALSE,"stand",3732,17,10,19,"dealer win",11329
+"1n3e537gxj662mew10kxtg6g",24,NA,NA,375,25,4147,50,400,11,FALSE,"hit",2582,21,10,18,"player win",5869
+"1n3e537gxj662mew10kxtg6g",24,NA,NA,375,25,4147,50,400,11,FALSE,"stand",1012,21,10,18,"player win",5869
+"1n3e537gxj662mew10kxtg6g",25,NA,NA,400,25,2113,0,375,14,FALSE,"hit",4561,23,7,17,"player bust",1317
+"1n3e537gxj662mew10kxtg6g",26,65,4657,375,25,1913,0,350,17,FALSE,"hit",7917,27,10,15,"player bust",1671
+"1n3e537gxj662mew10kxtg6g",27,NA,NA,350,25,5479,50,375,5,FALSE,"hit",3102,19,8,18,"player win",1287
+"1n3e537gxj662mew10kxtg6g",27,NA,NA,350,25,5479,50,375,5,FALSE,"hit",1229,19,8,18,"player win",1287
+"1n3e537gxj662mew10kxtg6g",27,NA,NA,350,25,5479,50,375,5,FALSE,"hit",2743,19,8,18,"player win",1287
+"1n3e537gxj662mew10kxtg6g",27,NA,NA,350,25,5479,50,375,5,FALSE,"stand",1696,19,8,18,"player win",1287
+"1n3e537gxj662mew10kxtg6g",28,NA,NA,375,25,3733,50,400,9,FALSE,"hit",18191,19,4,23,"dealer bust",1077
+"1n3e537gxj662mew10kxtg6g",28,NA,NA,375,25,3733,50,400,9,FALSE,"stand",1433,19,4,23,"dealer bust",1077
+"1n3e537gxj662mew10kxtg6g",29,69,4477,400,25,2490,63,438,21,TRUE,"stand",2016,21,10,17,"blackjack; player win",1920
+"1n3e537gxj662mew10kxtg6g",30,NA,NA,438,3,3998,0,435,7,FALSE,"hit",1789,23,5,11,"player bust",3413
+"1n3e537gxj662mew10kxtg6g",30,NA,NA,438,3,3998,0,435,7,FALSE,"hit",849,23,5,11,"player bust",3413
+"1n3e537gxj662mew10kxtg6g",31,NA,NA,435,10,5093,0,425,12,FALSE,"hit",1963,22,5,15,"player bust",3785
+"1n3e537gxj662mew10kxtg6g",31,NA,NA,435,10,5093,0,425,12,FALSE,"hit",755,22,5,15,"player bust",3785
+"1n3e537gxj662mew10kxtg6g",32,NA,NA,425,25,5277,0,400,12,FALSE,"hit",6432,13,3,19,"dealer win",23723
+"1n3e537gxj662mew10kxtg6g",32,NA,NA,425,25,5277,0,400,12,FALSE,"stand",3587,13,3,19,"dealer win",23723
+"1n3e537gxj662mew10kxtg6g",33,50,2701,400,25,3537,0,375,15,FALSE,"hit",2553,18,11,19,"dealer win",1602
+"1n3e537gxj662mew10kxtg6g",33,50,2701,400,25,3537,0,375,15,FALSE,"stand",1556,18,11,19,"dealer win",1602
+"1n3e537gxj662mew10kxtg6g",34,NA,NA,375,25,2914,25,375,16,FALSE,"hit",6089,20,10,20,"draw",1237
+"1n3e537gxj662mew10kxtg6g",34,NA,NA,375,25,2914,25,375,16,FALSE,"stand",1118,20,10,20,"draw",1237
+"1n3e537gxj662mew10kxtg6g",35,NA,NA,375,25,10020,50,400,4,FALSE,"hit",2112,20,10,18,"player win",1104
+"1n3e537gxj662mew10kxtg6g",35,NA,NA,375,25,10020,50,400,4,FALSE,"hit",732,20,10,18,"player win",1104
+"1n3e537gxj662mew10kxtg6g",35,NA,NA,375,25,10020,50,400,4,TRUE,"stand",1396,20,10,18,"player win",1104
+"1n3e537gxj662mew10kxtg6g",36,59,5767,400,25,1961,0,375,6,FALSE,"hit",8307,16,4,18,"dealer win",11067
+"1n3e537gxj662mew10kxtg6g",36,59,5767,400,25,1961,0,375,6,FALSE,"stand",12877,16,4,18,"dealer win",11067
+"1n3e537gxj662mew10kxtg6g",37,NA,NA,375,25,1764,0,350,13,TRUE,"stand",2387,13,4,21,"dealer win",537
+"1n3e537gxj662mew10kxtg6g",38,NA,NA,350,25,1045,25,350,14,FALSE,"hit",2477,21,10,21,"draw",2235
+"1n3e537gxj662mew10kxtg6g",38,NA,NA,350,25,1045,25,350,14,FALSE,"stand",1010,21,10,21,"draw",2235
+"1n3e537gxj662mew10kxtg6g",39,50,2132,350,25,5459,50,375,19,FALSE,"stand",1921,19,4,17,"player win",4875
+"1n3e537gxj662mew10kxtg6g",40,NA,NA,375,25,1192,50,400,5,FALSE,"hit",2048,17,10,26,"dealer bust",1168
+"1n3e537gxj662mew10kxtg6g",40,NA,NA,375,25,1192,50,400,5,FALSE,"hit",1485,17,10,26,"dealer bust",1168
+"1n3e537gxj662mew10kxtg6g",40,NA,NA,375,25,1192,50,400,5,FALSE,"stand",2605,17,10,26,"dealer bust",1168
+"1n3e537gxj662mew10kxtg6g",41,NA,NA,400,25,3758,50,425,18,FALSE,"stand",3519,18,10,25,"dealer bust",3635
+"1n3e537gxj662mew10kxtg6g",42,81,5181,425,25,1515,50,450,7,FALSE,"hit",3449,18,3,24,"dealer bust",3777
+"1n3e537gxj662mew10kxtg6g",42,81,5181,425,25,1515,50,450,7,TRUE,"stand",1640,18,3,24,"dealer bust",3777
+"1n3e537gxj662mew10kxtg6g",43,NA,NA,450,25,2988,50,475,20,FALSE,"stand",7696,20,7,17,"player win",8012
+"1n3e537gxj662mew10kxtg6g",44,NA,NA,475,25,2503,50,500,13,FALSE,"stand",23812,13,5,24,"dealer bust",18814
+"1n3e537gxj662mew10kxtg6g",45,61,5311,500,25,3119,0,475,18,TRUE,"stand",2182,18,4,21,"dealer win",2450
+"1n3e537gxj662mew10kxtg6g",46,NA,NA,475,25,2436,50,500,15,FALSE,"stand",3067,15,2,25,"dealer bust",1071
+"1n3e537gxj662mew10kxtg6g",47,NA,NA,500,25,3237,0,475,17,TRUE,"stand",28825,17,8,20,"dealer win",17581
+"1n3e537gxj662mew10kxtg6g",48,50,2770,475,25,2634,0,450,14,FALSE,"hit",14901,22,10,20,"player bust",7426
+"1n3e537gxj662mew10kxtg6g",49,NA,NA,450,25,2634,0,425,15,FALSE,"hit",4159,22,10,20,"player bust",8060
+"1n3e537gxj662mew10kxtg6g",50,NA,NA,425,25,6308,0,400,14,FALSE,"hit",5909,26,10,20,"player bust",3231
+"1n3e537gxj662mew10kxtg6g",50,NA,NA,425,25,6308,0,400,14,FALSE,"hit",24067,26,10,20,"player bust",3231
+"1n3e537gxj662mew10kxtg6g",51,50,2815,400,25,7183,25,400,13,FALSE,"hit",9963,17,9,17,"draw",21774
+"1n3e537gxj662mew10kxtg6g",51,50,2815,400,25,7183,25,400,13,FALSE,"stand",2335,17,9,17,"draw",21774
+"1n3e537gxj662mew10kxtg6g",52,NA,NA,400,25,12268,50,425,18,FALSE,"stand",1930,18,10,25,"dealer bust",1766
+"1n3e537gxj662mew10kxtg6g",53,NA,NA,425,25,5129,63,463,21,TRUE,"stand",2013,21,8,18,"blackjack; player win",4573
+"1n3e537gxj662mew10kxtg6g",54,50,4326,463,13,2503,0,450,14,FALSE,"hit",1520,23,5,13,"player bust",1351
+"1n3e537gxj662mew10kxtg6g",54,50,4326,463,13,2503,0,450,14,FALSE,"hit",842,23,5,13,"player bust",1351
+"1n3e537gxj662mew10kxtg6g",55,NA,NA,450,25,3361,25,450,19,FALSE,"stand",4932,19,8,19,"draw",3057
+"1n3e537gxj662mew10kxtg6g",56,50,1720,450,25,6511,0,425,6,FALSE,"hit",4401,15,7,17,"dealer win",2441
+"1n3e537gxj662mew10kxtg6g",56,50,1720,450,25,6511,0,425,6,FALSE,"stand",2764,15,7,17,"dealer win",2441
+"1n3e537gxj662mew10kxtg6g",57,NA,NA,425,25,1582,0,400,10,FALSE,"hit",1936,14,5,21,"dealer win",1075
+"1n3e537gxj662mew10kxtg6g",57,NA,NA,425,25,1582,0,400,10,FALSE,"stand",2078,14,5,21,"dealer win",1075
+"1n3e537gxj662mew10kxtg6g",58,50,4369,400,25,1326,0,375,13,FALSE,"hit",1840,20,10,21,"dealer win",2076
+"1n3e537gxj662mew10kxtg6g",58,50,4369,400,25,1326,0,375,13,FALSE,"stand",1842,20,10,21,"dealer win",2076
+"1n3e537gxj662mew10kxtg6g",59,NA,NA,375,25,4206,0,350,16,FALSE,"stand",4243,16,10,20,"dealer win",132
+"1n3e537gxj662mew10kxtg6g",60,50,2400,350,25,1750,25,350,19,FALSE,"stand",2663,19,2,19,"draw",1538
+"1n3e537gxj662mew10kxtg6g",61,NA,NA,350,25,1062,63,388,21,TRUE,"stand",2012,21,9,18,"blackjack; player win",10045
+"1n3e537gxj662mew10kxtg6g",62,NA,NA,388,13,6630,0,375,8,FALSE,"hit",3343,18,9,19,"dealer win",1951
+"1n3e537gxj662mew10kxtg6g",62,NA,NA,388,13,6630,0,375,8,FALSE,"stand",1392,18,9,19,"dealer win",1951
+"1n3e537gxj662mew10kxtg6g",63,50,2331,375,25,8683,50,400,14,FALSE,"hit",13101,19,9,17,"player win",677
+"1n3e537gxj662mew10kxtg6g",63,50,2331,375,25,8683,50,400,14,FALSE,"stand",1927,19,9,17,"player win",677
+"1n3e537gxj662mew10kxtg6g",64,NA,NA,400,25,2109,50,425,19,FALSE,"stand",6676,19,3,17,"player win",727
+"1n3e537gxj662mew10kxtg6g",65,NA,NA,425,25,1967,0,400,18,FALSE,"stand",8719,18,2,21,"dealer win",6638
+"1n3e537gxj662mew10kxtg6g",66,50,2898,400,25,2653,0,375,13,FALSE,"hit",6317,23,10,20,"player bust",729
+"1n3e537gxj662mew10kxtg6g",67,NA,NA,375,25,1448,0,350,9,FALSE,"hit",4259,17,10,20,"dealer win",1247
+"1n3e537gxj662mew10kxtg6g",67,NA,NA,375,25,1448,0,350,9,FALSE,"hit",2295,17,10,20,"dealer win",1247
+"1n3e537gxj662mew10kxtg6g",67,NA,NA,375,25,1448,0,350,9,FALSE,"stand",1780,17,10,20,"dealer win",1247
+"1n3e537gxj662mew10kxtg6g",68,NA,NA,350,25,1634,0,325,14,TRUE,"stand",3305,14,6,17,"dealer win",1009
+"1n3e537gxj662mew10kxtg6g",69,NA,NA,325,25,1184,50,350,15,FALSE,"hit",4626,17,10,22,"dealer bust",726
+"1n3e537gxj662mew10kxtg6g",69,NA,NA,325,25,1184,50,350,15,FALSE,"stand",2027,17,10,22,"dealer bust",726
+"1n3e537gxj662mew10kxtg6g",70,50,3552,350,25,1377,0,325,13,FALSE,"hit",7534,23,10,12,"player bust",786
+"1n3e537gxj662mew10kxtg6g",71,NA,NA,325,25,1200,0,300,9,FALSE,"hit",13702,19,10,20,"dealer win",6410
+"1n3e537gxj662mew10kxtg6g",71,NA,NA,325,25,1200,0,300,9,FALSE,"stand",1571,19,10,20,"dealer win",6410
+"1n3e537gxj662mew10kxtg6g",72,NA,NA,300,25,1564,50,325,18,FALSE,"stand",23604,18,10,24,"dealer bust",6162
+"1n3e537gxj662mew10kxtg6g",73,50,2726,325,25,2286,0,300,14,FALSE,"stand",16336,14,4,20,"dealer win",250
+"1n3e537gxj662mew10kxtg6g",74,NA,NA,300,25,1808,0,275,14,TRUE,"hit",5314,22,7,16,"player bust",1363
+"1n3e537gxj662mew10kxtg6g",74,NA,NA,300,25,1808,0,275,14,FALSE,"hit",2773,22,7,16,"player bust",1363
+"1n3e537gxj662mew10kxtg6g",75,NA,NA,275,25,1420,0,250,10,FALSE,"hit",6684,24,6,11,"player bust",3933
+"1n3e537gxj662mew10kxtg6g",75,NA,NA,275,25,1420,0,250,10,FALSE,"hit",1214,24,6,11,"player bust",3933
+"1n3e537gxj662mew10kxtg6g",76,50,5481,250,25,1218,0,225,12,FALSE,"hit",1906,16,10,20,"dealer win",781
+"1n3e537gxj662mew10kxtg6g",76,50,5481,250,25,1218,0,225,12,FALSE,"stand",1506,16,10,20,"dealer win",781
+"1n3e537gxj662mew10kxtg6g",77,NA,NA,225,25,1340,50,250,11,FALSE,"hit",2077,16,3,25,"dealer bust",811
+"1n3e537gxj662mew10kxtg6g",77,NA,NA,225,25,1340,50,250,11,FALSE,"stand",7024,16,3,25,"dealer bust",811
+"1n3e537gxj662mew10kxtg6g",78,NA,NA,250,250,4188,0,0,17,FALSE,"stand",2543,17,10,18,"dealer win",293
+"1n3e537gxj662mew10kxtg6g",79,NA,NA,500,500,1834,1250,1250,21,TRUE,"stand",2007,21,5,9,"blackjack; player win",51
+"1n3e537gxj662mew10kxtg6g",80,50,2876,1250,1250,5067,1250,1250,13,FALSE,"hit",2526,19,9,19,"draw",944
+"1n3e537gxj662mew10kxtg6g",80,50,2876,1250,1250,5067,1250,1250,13,FALSE,"stand",1353,19,9,19,"draw",944
