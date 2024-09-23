@@ -54,11 +54,6 @@ for (index_variable in 200:190){
     print(index_variable)
 }
 
-## write a first for-loop
-for (index_variable in 200:190){
-    print(index_variable)
-}
-
 ## use a for-loop to index along a vector
 for (i in length(presenter_names)){
     print(presenter_names[i])
@@ -66,11 +61,12 @@ for (i in length(presenter_names)){
 
 ## use a for-loop to index along a vector (with an if-loop inside the for-loop)
 for (i in 1:length(presenter_names)){
+   
+    print(presenter_names[i])
+    
     if (presenter_names[i] == "Daniel"){
-        print(presenter_names[i])
         print("Boo")
     } else{
-        print(presenter_names[i])
         print("Hooray")
     }
 }
