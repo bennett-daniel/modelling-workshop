@@ -1,11 +1,12 @@
-
+## set seed
+set.seed(112358)
 
 ## load in data
 bruder_data <- read.csv(here::here("data", "bruder-all.csv"))
 
-## specify the hyperbolic discounting function and its inverse
-hyperbolic_discount_fun <- function(amount, delay, k){
-  return(amount * (1 / (1 + k * delay)))
+## specify the linear discount function
+linear_discount_fun <- function(amount, delay, discount_parameter){
+  return(amount + discount_parameter * delay)
 }
 
 ## specify the softmax function
@@ -16,8 +17,8 @@ softmax <- function(V, beta){
 likelihood_function <- function(par, p_data){
   
   ## assign the parameters to named variables
-  k    <- par[1]
-  beta <- par[2]
+  discount_parameter <- par[1]
+  beta               <- par[2]
   
   ## create a container for the choice likelihoods
   n_trials <- nrow(p_data)
@@ -27,17 +28,17 @@ likelihood_function <- function(par, p_data){
   for (trial_ix in 1:n_trials){
     
     ## calculate the subjective value of the smaller sooner option
-    V_ss <- hyperbolic_discount_fun(
-      amount = p_data$value.now[trial_ix], 
-      delay  = p_data$Delay[trial_ix] / 365,
-      k      = k
+    V_ss <- linear_discount_fun(
+      amount             = p_data$value.now[trial_ix], 
+      delay              = p_data$Delay[trial_ix] / 365,
+      discount_parameter = discount_parameter
     )
     
     ## calculate the subjective value of the larger later option
-    V_ll <- hyperbolic_discount_fun(
-      amount = p_data$Value.later[trial_ix], 
-      delay  = p_data$Value.later.delay[trial_ix] / 365,
-      k      = k
+    V_ll <- linear_discount_fun(
+      amount             = p_data$Value.later[trial_ix], 
+      delay              = p_data$Value.later.delay[trial_ix] / 365,
+      discount_parameter = discount_parameter
     )
     
     ## calculate softmax choice probability
@@ -91,7 +92,7 @@ for (p_ix in 1:n_participants){
   
   ## fit model
   model_fit <- optim(
-    par    = runif(n=2, min=0, max=2), # k, beta
+    par    = c(runif(n=1, min=-2, max=0), runif(n=1, min=0,max=2)), # k, beta
     fn     = likelihood_function,
     method = "L-BFGS-B",
     lower  = c(-Inf,0), # k, beta,
@@ -112,3 +113,15 @@ for (p_ix in 1:n_participants){
   rm(list="model_fit")
   
 }
+
+all_results_linear <- list(
+  all_k            = all_k,
+  all_beta         = all_beta,
+  all_neg_ll       = all_neg_ll,
+  all_AIC          = all_AIC,
+  all_BIC          = all_BIC,
+  all_output_flag  = all_output_flag,
+  all_n_datapoints = all_n_datapoints
+)
+
+save("all_results_hyperbolic", file="/Users/danielbennett/Documents/Git/modelling-workshop/results/mle_results_linear.Rdata")

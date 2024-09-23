@@ -23,7 +23,7 @@ theme_replace(panel.grid.major = element_blank(),
 bruder_data <- read.csv(here::here("data", "bruder-all.csv"))
 
 ## grab a single participant
-p_ix <- 4
+p_ix <- 2
 p_data <- subset(bruder_data, bruder_data$SubID == unique(bruder_data$SubID)[p_ix])
 
 ## specify the hyperbolic discounting function
@@ -36,7 +36,7 @@ delay = seq(from=00, to = 125, length.out = 20)
 background_shading_frame <- data.frame(expand.grid(amount, delay))
 colnames(background_shading_frame) <- c("amount", "delay")
 
-k <- 3.73
+k <- 3.14
 delay = seq(from=0, to = 125, length.out = 100)
 critical_amount = 20 *(1 + k * (delay/365))
 # critical_amount = 20 / (k * (delay/365))
@@ -69,7 +69,7 @@ implied_discount_plot <- ggplot(data = discount_function_frame, mapping = aes(x=
 
 
 joint_plot <- cowplot::plot_grid(implied_discount_plot, data_prediction_plot, nrow=1, rel_widths=c(0.45,0.55), label_fontface="bold", label_size=12, labels=c("A) Subjective value at different delays", "B) Data and predictions"), hjust=0) 
-cowplot::save_plot(plot=joint_plot, filename=here::here("plots", sprintf("data_plot_p%.0f_k%0.2f.png", p_ix, k)),base_height = 10, base_width=25, units="cm")
+cowplot::save_plot(plot=joint_plot, filename=here::here("plots", sprintf("data_plot_p%.0f_k%0.2f.png", p_ix, k)),base_height = 12, base_width=25, units="cm")
 
 
 data_prediction_plot_unshaded <- ggplot() +
@@ -78,8 +78,8 @@ data_prediction_plot_unshaded <- ggplot() +
                                   scale_x_continuous(name = "Delay of LL option") +
                                   scale_y_continuous(name = "Amount of LL option") +
                                   coord_capped_cart(xlim=c(0,125), ylim=c(20,80), left = "both", bottom="both") +
-                                  theme(legend.position = "bottom")
+                                  theme(legend.position = "bottom", plot.margin = margin(t=10, r=10, b=0, l=10))
 
-cowplot::save_plot(plot=data_prediction_plot_unshaded, filename=here::here("plots", sprintf("data_plot_p%.0f.png", p_ix)),base_height = 10, base_width=12, units="cm")
+cowplot::save_plot(plot=data_prediction_plot_unshaded, filename=here::here("plots", sprintf("data_plot_p%.0f.png", p_ix)),base_height = 8, base_width=14, units="cm")
 
 

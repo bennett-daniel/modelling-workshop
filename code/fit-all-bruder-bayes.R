@@ -53,7 +53,7 @@ toc()
 
 
 # extract parameter samples (group-level)
-group_pars <- c("k_mu_pr", "beta_mu_pr")
+group_pars <- c("k_mu_pr", "k_sigma_pr", "beta_mu_pr", "beta_sigma_pr")
 group_par_samples <- read_cmdstan_csv(
   files=fit$output_files(),
   variables = group_pars,
@@ -87,3 +87,8 @@ for (i in 1:length(indiv_par_samples)){
   indiv_par_est[,i] <- apply(indiv_par_samples[[i]], MARGIN=2, FUN=median)
   hist(indiv_par_est[,i], main=indiv_pars[i], 25)
 }
+
+
+# save to results folder
+save("indiv_par_samples", "indiv_par_est", file="/Users/danielbennett/Documents/Git/modelling-workshop/results/hyperbolic_indiv_pars.Rdata")
+save("group_par_samples", "group_par_est", file="/Users/danielbennett/Documents/Git/modelling-workshop/results/hyperbolic_group_pars.Rdata")
