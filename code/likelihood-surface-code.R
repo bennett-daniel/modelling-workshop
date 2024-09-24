@@ -81,3 +81,25 @@ for(i in 1:length(k)){
 
 plot(k, k_likelihood_sweep, type="l", ylab="negative log likelihood", ylim=c(0,700), main = "(Negative log) likelihood surface for k\n(with beta held constant at 0.2)")
 plot(beta, beta_likelihood_sweep, type="l", ylab="negative log likelihood", ylim=c(0,700), main = "(Negative log) likelihood surface for beta\n(with k held constant at 30)")
+
+
+## code for MAP estimation
+k_uniform_prior <- rep(1, times=100)
+k_uniform_prior <- k_uniform_prior / sum(k_uniform_prior)
+k_normal_prior <- dnorm(x=k, mean=0, sd=10)
+k_normal_prior <- k_normal_prior / sum(k_normal_prior)
+
+## plot priors
+plot(k, k_uniform_prior, type="l", ylab="Prior probability (a.u.)", ylim=c(0,.07), main = "Uniform prior")
+plot(k, k_normal_prior, type="l", ylab="Prior probability (a.u.)", ylim=c(0,.07), main = "Half-normal(0,10) prior")
+
+
+## do map estimation
+k_normal_posterior <- k_normal_prior * exp(-k_likelihood_sweep/188)
+k_normal_posterior <- k_normal_posterior / sum(k_normal_posterior)
+k_uniform_posterior <- k_uniform_prior * exp(-k_likelihood_sweep/188)
+k_uniform_posterior <- k_uniform_posterior / sum(k_uniform_posterior)
+
+plot(k, k_normal_posterior, type="l", ylab="Posterior probability (a.u.)", ylim=c(0,.07), main = "Posterior distribution")
+plot(k, k_uniform_posterior, type="l", ylab="Posterior probability (a.u.)", ylim=c(0,.07), main = "Posterior distribution")
+
