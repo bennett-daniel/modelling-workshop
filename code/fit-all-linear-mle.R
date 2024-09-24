@@ -101,8 +101,8 @@ for (p_ix in 1:n_participants){
   all_discount_parameter[p_ix] <- model_fit$par[1]
   all_beta[p_ix]               <- model_fit$par[2]
   all_n_datapoints[p_ix]       <- nrow(single_participant_data)
-  all_AIC[p_ix]                <- 2 * model_fit$value + 2 * nrow(single_participant_data)
-  all_BIC[p_ix]                <- 2 * model_fit$value + n_pars * nrow(single_participant_data)
+  all_AIC[p_ix]                <- 2 * model_fit$value + n_pars * 2
+  all_BIC[p_ix]                <- 2 * model_fit$value + n_pars * log(nrow(single_participant_data))
   all_output_flag[p_ix]        <- model_fit$convergence
   
   ## clear model fit
