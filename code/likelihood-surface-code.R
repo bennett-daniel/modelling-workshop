@@ -96,6 +96,8 @@ plot(k, k_normal_prior, type="l", ylab="Prior probability (a.u.)", ylim=c(0,.07)
 
 ## do map estimation
 k_normal_posterior <- k_normal_prior * exp(-k_likelihood_sweep/188)
+plot(k, k_normal_posterior, type="l", ylab="a.u.", ylim=c(0,.07), main = "Prior x likelihood")
+
 k_normal_posterior <- k_normal_posterior / sum(k_normal_posterior)
 k_uniform_posterior <- k_uniform_prior * exp(-k_likelihood_sweep/188)
 k_uniform_posterior <- k_uniform_posterior / sum(k_uniform_posterior)
