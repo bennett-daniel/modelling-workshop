@@ -24,7 +24,7 @@ raw_data <- read.csv(here::here("data", "test-raw.csv"))
 raw_data <- raw_data[3:nrow(raw_data),18:23]
 
 ## exclude some participants
-participants_to_exclude <- c(1,3,5,9)
+participants_to_exclude <- c(1)
 raw_data <- raw_data[-participants_to_exclude,]
 n_participants <- nrow(raw_data)
 
