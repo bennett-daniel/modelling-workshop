@@ -32,10 +32,10 @@ add_two_numbers <- function(first_number, second_number){
 add_two_numbers(100,26)
 
 ## write an if-loop
-number_to_test <- 0
+number_to_test <- 100
 if (number_to_test > 0){
     print("Positive")
-} else if (number_to_test > 0){
+} else if (number_to_test < 0){
     print("Negative")
 } else{
     print("Zero")
@@ -55,7 +55,7 @@ for (index_variable in 200:190){
 }
 
 ## use a for-loop to index along a vector
-for (i in length(presenter_names)){
+for (i in 1:length(presenter_names)){
     print(presenter_names[i])
 }
 

@@ -3,8 +3,8 @@ bruder_data_file <- paste("data", "bruder-all.csv", sep=.Platform$file.sep)
 bruder_data <- read.csv(bruder_data_file)
 
 ## extract data from a single participant
-participant_to_fit <- 1
-single_participant_data <- subset(bruder_data, bruder_data$SubID == unique(bruder_data$SubID)[1])
+participant_to_fit <- 2
+single_participant_data <- subset(bruder_data, bruder_data$SubID == unique(bruder_data$SubID)[participant_to_fit])
 
 ## specify the hyperbolic discounting function
 hyperbolic_discount_function <- function(amount, delay, k){
